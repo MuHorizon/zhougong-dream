@@ -77,17 +77,5 @@ npm run dev
 npm run deploy
 ```
 
-## 当前已经具备
-
-- Astro 前端页面
-- `/api/dream` Cloudflare 后端接口
-- D1 梦象资料表
-- 梦境关键词匹配
-- AI API 接口层
-- AI 未配置时自动退回数据库结果
-- AI Key Secret 方案
-- 用户梦境默认不保存
-
-## 下一阶段
-
-核心工作不是继续堆页面，而是整理正式“周公解梦资料库”，替换 `seed.sql` 的测试内容，并完善梦象拆解与检索。
+## 线上地址
+[text](https://dream.muhorizon.org)
