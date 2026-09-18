@@ -1,0 +1,212 @@
+[
+  {
+    "id": "zg-0001",
+    "category": "天地日月星辰",
+    "sourceText": "天门开贵人荐引",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0002",
+    "category": "天地日月星辰",
+    "sourceText": "天光灼身疾病除",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0003",
+    "category": "天地日月星辰",
+    "sourceText": "天晴雨散百忧去",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0004",
+    "category": "天地日月星辰",
+    "sourceText": "天明妇有生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0005",
+    "category": "天地日月星辰",
+    "sourceText": "天门未至有兵荒",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0006",
+    "category": "天地日月星辰",
+    "sourceText": "仰面向天大富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0007",
+    "category": "天地日月星辰",
+    "sourceText": "乘龙上天主大贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0008",
+    "category": "天地日月星辰",
+    "sourceText": "上天求妻儿女贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0009",
+    "category": "天地日月星辰",
+    "sourceText": "上天取物位王侯",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0010",
+    "category": "天地日月星辰",
+    "sourceText": "飞上天富贵大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0011",
+    "category": "天地日月星辰",
+    "sourceText": "癸天上屋得高官",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0012",
+    "category": "天地日月星辰",
+    "sourceText": "天裂有分主国忧",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0013",
+    "category": "天地日月星辰",
+    "sourceText": "天皇明主公卿至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0014",
+    "category": "天地日月星辰",
+    "sourceText": "天欲晓益寿命吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0015",
+    "category": "天地日月星辰",
+    "sourceText": "渡天河主有所吉",
+    "suggestions": [
+      {
+        "title": "梦见银河",
+        "keywords": [
+          "银河",
+          "天河",
+          "渡天河"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0016",
+    "category": "天地日月星辰",
+    "sourceText": "天地合所求皆得",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0017",
+    "category": "天地日月星辰",
+    "sourceText": "天公使有大吉祥",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0018",
+    "category": "天地日月星辰",
+    "sourceText": "日月初出家道昌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0019",
+    "category": "天地日月星辰",
+    "sourceText": "日月照身得重位",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0020",
+    "category": "天地日月星辰",
+    "sourceText": "日月落忧没父母",
+    "suggestions": [
+      {
+        "title": "梦见月落",
+        "keywords": [
+          "月落",
+          "月沉",
+          "月入海"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0021",
+    "category": "天地日月星辰",
+    "sourceText": "日月昏暗孕妇吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0022",
+    "category": "天地日月星辰",
+    "sourceText": "日月欲出有官职",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0023",
+    "category": "天地日月星辰",
+    "sourceText": "日月合会妻有子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0024",
+    "category": "天地日月星辰",
+    "sourceText": "日月衔山奴欺主",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0025",
+    "category": "天地日月星辰",
+    "sourceText": "负抱日月贵王侯",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0026",
+    "category": "天地日月星辰",
+    "sourceText": "吞日月当生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0027",
+    "category": "天地日月星辰",
+    "sourceText": "礼拜日月大吉昌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0028",
+    "category": "天地日月星辰",
+    "sourceText": "日光入屋官位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0029",
+    "category": "天地日月星辰",
+    "sourceText": "日初出无云大吉",
+    "suggestions": [
+      {
+        "title": "梦见日初升",
+        "keywords": [
+          "日初升",
+          "日初出",
+          "旭日"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0030",
+    "category": "天地日月星辰",
+    "sourceText": "日出有光有好事",
+    "suggestions": []
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "zg-0211",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "人与三刀作刺史",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0212",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "与人相砍大吉庆",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0213",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "被刀出血得酒食",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0214",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "持刀刺人主失利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0215",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "刀斧自伤大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0216",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "得人刀斧禄位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0217",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "刀落水中妻妾亡",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0218",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "失落刀剑主破财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0219",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "带刀剑行有财利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0220",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "磨刀剑锋快大古",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0221",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "与人刀剑皆主凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0222",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "剑在床头大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0223",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "女人带刀大吉庆",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0224",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "女人拔刀主有子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0225",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "剪刀主分财之事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0226",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "剪刀剪物主得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0227",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "剪刀折股妻妾凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0228",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "甲胄披身护吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0229",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "枪槊主官位吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0230",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "见军兵败主有凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0231",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "钟磐有声远人来",
+    "suggestions": [
+      {
+        "title": "梦见鸣钟",
+        "keywords": [
+          "鸣钟",
+          "钟声",
+          "钟磐"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0232",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "钟鼓大鸣福禄至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0233",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "打鼓有声远有来",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0234",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "见鼓住声欢乐吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0235",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "见鼓不鸣凶必至",
+    "suggestions": [
+      {
+        "title": "梦见鼓不鸣",
+        "keywords": [
+          "鼓不鸣",
+          "鼓不响",
+          "击鼓无声"
+        ],
+        "score": 0.8251999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0236",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "看放烟火有忧散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0237",
+    "category": "帝王文武呼召",
+    "sourceText": "帝王宣召有惊喜",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0238",
+    "category": "帝王文武呼召",
+    "sourceText": "后妃呼召饮有疾",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0239",
+    "category": "帝王文武呼召",
+    "sourceText": "太子召大喜吉利",
+    "suggestions": [
+      {
+        "title": "梦见太子",
+        "keywords": [
+          "太子",
+          "储君",
+          "见太子"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0240",
+    "category": "帝王文武呼召",
+    "sourceText": "天子赐坐有财吉",
+    "suggestions": []
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "zg-0481",
+    "category": "船车游行物价",
+    "sourceText": "与人同船主移居",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0482",
+    "category": "船车游行物价",
+    "sourceText": "乘船风帆大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0483",
+    "category": "船车游行物价",
+    "sourceText": "乘船见航主安稳",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0484",
+    "category": "船车游行物价",
+    "sourceText": "乘船桥下过大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0485",
+    "category": "船车游行物价",
+    "sourceText": "病人乘船必主死",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0486",
+    "category": "船车游行物价",
+    "sourceText": "助人行船官位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0487",
+    "category": "船车游行物价",
+    "sourceText": "身卧船中主有凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0488",
+    "category": "船车游行物价",
+    "sourceText": "执火入船主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0489",
+    "category": "船车游行物价",
+    "sourceText": "家中乘船主没财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0490",
+    "category": "船车游行物价",
+    "sourceText": "乘船看花酒食至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0491",
+    "category": "船车游行物价",
+    "sourceText": "船车破碎主不详",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0492",
+    "category": "船车游行物价",
+    "sourceText": "车轮破夫妻相别",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0493",
+    "category": "船车游行物价",
+    "sourceText": "车轮折倒主破败",
+    "suggestions": [
+      {
+        "title": "梦见车破",
+        "keywords": [
+          "车破",
+          "车坏",
+          "车轮折"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0494",
+    "category": "船车游行物价",
+    "sourceText": "车载不起厄事去",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0495",
+    "category": "船车游行物价",
+    "sourceText": "骂车游行禄位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0496",
+    "category": "船车游行物价",
+    "sourceText": "车行主百事顺利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0497",
+    "category": "船车游行物价",
+    "sourceText": "车不行所求不遂",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0498",
+    "category": "船车游行物价",
+    "sourceText": "车入门主有凶事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0499",
+    "category": "船车游行物价",
+    "sourceText": "病人上车主大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0500",
+    "category": "船车游行物价",
+    "sourceText": "丧车过者主灾散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0501",
+    "category": "船车游行物价",
+    "sourceText": "行车白马主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0502",
+    "category": "船车游行物价",
+    "sourceText": "四马驾车吉反凶",
+    "suggestions": [
+      {
+        "title": "梦见马驾车",
+        "keywords": [
+          "马驾车",
+          "四马车",
+          "御马"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0503",
+    "category": "船车游行物价",
+    "sourceText": "以羊驾车事不常",
+    "suggestions": [
+      {
+        "title": "梦见羊驾车",
+        "keywords": [
+          "羊驾车",
+          "羊拉车"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0504",
+    "category": "船车游行物价",
+    "sourceText": "备马者生远行事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0505",
+    "category": "船车游行物价",
+    "sourceText": "远行出入命通达",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0506",
+    "category": "道路桥梁集市",
+    "sourceText": "见四通路名利遂",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0507",
+    "category": "道路桥梁集市",
+    "sourceText": "道中得财主通达",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0508",
+    "category": "道路桥梁集市",
+    "sourceText": "道泥荆棘事大成",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0509",
+    "category": "道路桥梁集市",
+    "sourceText": "大道崩馅主失财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0510",
+    "category": "道路桥梁集市",
+    "sourceText": "修桥梁者万事和",
+    "suggestions": []
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "zg-0511",
+    "category": "道路桥梁集市",
+    "sourceText": "见流桥主有官事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0512",
+    "category": "道路桥梁集市",
+    "sourceText": "桥上坐立禄位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0513",
+    "category": "道路桥梁集市",
+    "sourceText": "见桥坏主有官事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0514",
+    "category": "道路桥梁集市",
+    "sourceText": "携手上桥妻有孕",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0515",
+    "category": "道路桥梁集市",
+    "sourceText": "桥上呼唤讼得理",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0516",
+    "category": "道路桥梁集市",
+    "sourceText": "新造桥者大和合",
+    "suggestions": [
+      {
+        "title": "梦见修桥",
+        "keywords": [
+          "修桥",
+          "造桥",
+          "新造桥"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0517",
+    "category": "道路桥梁集市",
+    "sourceText": "桥断者主有口舌",
+    "suggestions": [
+      {
+        "title": "梦见过断桥",
+        "keywords": [
+          "过断桥",
+          "桥断",
+          "断桥"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0518",
+    "category": "道路桥梁集市",
+    "sourceText": "桥柱折者子孙凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0519",
+    "category": "道路桥梁集市",
+    "sourceText": "桥路上住车皆凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0520",
+    "category": "道路桥梁集市",
+    "sourceText": "夫妇入市主置产",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0521",
+    "category": "道路桥梁集市",
+    "sourceText": "见市中无人主凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0522",
+    "category": "夫妻产孕交欢",
+    "sourceText": "夫妇宴会主相别",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0523",
+    "category": "夫妻产孕交欢",
+    "sourceText": "夫妇相骂主疾病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0524",
+    "category": "夫妻产孕交欢",
+    "sourceText": "夫妻分钗主离别",
+    "suggestions": [
+      {
+        "title": "梦见与妻分钗",
+        "keywords": [
+          "与妻分钗",
+          "夫妻分钗",
+          "分钗"
+        ],
+        "score": 0.9343999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0525",
+    "category": "夫妻产孕交欢",
+    "sourceText": "夫妻相打欲和会",
+    "suggestions": [
+      {
+        "title": "梦见与夫相打",
+        "keywords": [
+          "与夫打架",
+          "夫妻相打",
+          "夫妻争斗"
+        ],
+        "score": 0.9343999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0526",
+    "category": "夫妻产孕交欢",
+    "sourceText": "同妇人行主失财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0527",
+    "category": "夫妻产孕交欢",
+    "sourceText": "抱妇人主有喜事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0528",
+    "category": "夫妻产孕交欢",
+    "sourceText": "与妇人交有邪崇",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0529",
+    "category": "夫妻产孕交欢",
+    "sourceText": "与妇人共坐大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0530",
+    "category": "夫妻产孕交欢",
+    "sourceText": "交接男子主失财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0531",
+    "category": "夫妻产孕交欢",
+    "sourceText": "妻着锦衣生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0532",
+    "category": "夫妻产孕交欢",
+    "sourceText": "妻有争主外私情",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0533",
+    "category": "夫妻产孕交欢",
+    "sourceText": "见妇人阴主口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0534",
+    "category": "夫妻产孕交欢",
+    "sourceText": "妇人赤身主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0535",
+    "category": "夫妻产孕交欢",
+    "sourceText": "男子裸体命通达",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0536",
+    "category": "夫妻产孕交欢",
+    "sourceText": "兄弟分别口舌临",
+    "suggestions": [
+      {
+        "title": "梦见兄弟分别",
+        "keywords": [
+          "兄弟分别",
+          "兄弟离别",
+          "手足分离"
+        ],
+        "score": 0.9343999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0537",
+    "category": "夫妻产孕交欢",
+    "sourceText": "抱小儿女主口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0538",
+    "category": "夫妻产孕交欢",
+    "sourceText": "小儿死者主口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0539",
+    "category": "夫妻产孕交欢",
+    "sourceText": "新生男女主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0540",
+    "category": "夫妻产孕交欢",
+    "sourceText": "见嫁聚及孝主凶",
+    "suggestions": []
+  }
+]

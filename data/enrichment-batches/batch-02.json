@@ -1,0 +1,232 @@
+[
+  {
+    "id": "zg-0031",
+    "category": "天地日月星辰",
+    "sourceText": "云开日出凶事散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0032",
+    "category": "天地日月星辰",
+    "sourceText": "日入怀贵子月女",
+    "suggestions": [
+      {
+        "title": "梦见日落",
+        "keywords": [
+          "日落",
+          "落日",
+          "日入"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0033",
+    "category": "天地日月星辰",
+    "sourceText": "拜星月烧香大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0034",
+    "category": "天地日月星辰",
+    "sourceText": "云忽遮日有阴私",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0035",
+    "category": "天地日月星辰",
+    "sourceText": "星入怀主生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0036",
+    "category": "天地日月星辰",
+    "sourceText": "星落有病及官事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0037",
+    "category": "天地日月星辰",
+    "sourceText": "星列行主添奴婢",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0038",
+    "category": "天地日月星辰",
+    "sourceText": "持执星宿大富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0039",
+    "category": "天地日月星辰",
+    "sourceText": "流星不落主移居",
+    "suggestions": [
+      {
+        "title": "梦见流星",
+        "keywords": [
+          "流星",
+          "流星划过",
+          "飞星"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0040",
+    "category": "天地日月星辰",
+    "sourceText": "巡天摩星位公卿",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0041",
+    "category": "天地日月星辰",
+    "sourceText": "云起四方交易吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0042",
+    "category": "天地日月星辰",
+    "sourceText": "五色云主大吉昌",
+    "suggestions": [
+      {
+        "title": "梦见五色云",
+        "keywords": [
+          "五色云",
+          "彩云",
+          "祥云"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0043",
+    "category": "天地日月星辰",
+    "sourceText": "云赤白吉青黑凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0044",
+    "category": "天地日月星辰",
+    "sourceText": "见浮云作事不成",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0045",
+    "category": "天地日月星辰",
+    "sourceText": "云雾遮事大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0046",
+    "category": "天地日月星辰",
+    "sourceText": "黑云压地时气病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0047",
+    "category": "天地日月星辰",
+    "sourceText": "霜雪降主事不成",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0048",
+    "category": "天地日月星辰",
+    "sourceText": "雪下及时大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0049",
+    "category": "天地日月星辰",
+    "sourceText": "雪落身上万事成",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0050",
+    "category": "天地日月星辰",
+    "sourceText": "雪不沾身主孝服",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0051",
+    "category": "天地日月星辰",
+    "sourceText": "雪落家庭主丧事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0052",
+    "category": "天地日月星辰",
+    "sourceText": "阴雨晦时主囚事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0053",
+    "category": "天地日月星辰",
+    "sourceText": "行路逢雨有酒食",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0054",
+    "category": "天地日月星辰",
+    "sourceText": "雷霆作声官位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0055",
+    "category": "天地日月星辰",
+    "sourceText": "雷声恐怕私居吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0056",
+    "category": "天地日月星辰",
+    "sourceText": "雷从地震主志遂",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0057",
+    "category": "天地日月星辰",
+    "sourceText": "身被霹雳主富贵",
+    "suggestions": [
+      {
+        "title": "梦见霹雳",
+        "keywords": [
+          "霹雳",
+          "雷击",
+          "落雷"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0058",
+    "category": "天地日月星辰",
+    "sourceText": "电光照身有吉庆",
+    "suggestions": [
+      {
+        "title": "梦见闪电",
+        "keywords": [
+          "闪电",
+          "电光",
+          "雷光"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0059",
+    "category": "天地日月星辰",
+    "sourceText": "赤虹见吉黑虹凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0060",
+    "category": "天地日月星辰",
+    "sourceText": "霞满天百事欢悦",
+    "suggestions": []
+  }
+]

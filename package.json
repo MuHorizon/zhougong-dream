@@ -1,0 +1,29 @@
+{
+  "name": "zhougong-dream-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler types && astro dev",
+    "build": "wrangler types && astro check && astro build",
+    "preview": "astro preview",
+    "deploy": "npm run build && wrangler deploy",
+    "db:create": "wrangler d1 create zhougong-dream-db",
+    "db:migrate:local": "wrangler d1 migrations apply zhougong-dream-db --local",
+    "db:migrate:remote": "wrangler d1 migrations apply zhougong-dream-db --remote",
+    "db:seed:local": "wrangler d1 execute zhougong-dream-db --local --file=./seed.sql",
+    "db:seed:remote": "wrangler d1 execute zhougong-dream-db --remote --file=./seed.sql"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^14.3.1",
+    "@fingerprintjs/fingerprintjs": "^5.2.0",
+    "astro": "^7.3.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@types/node": "^22.20.3",
+    "cheerio": "^1.2.0",
+    "typescript": "^5.9.0",
+    "wrangler": "^4.133.0"
+  }
+}

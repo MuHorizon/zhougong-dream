@@ -1,0 +1,212 @@
+[
+  {
+    "id": "zg-0301",
+    "category": "宫室屋宇仓库",
+    "sourceText": "死央瓦落妇争斗",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0302",
+    "category": "宫室屋宇仓库",
+    "sourceText": "屋中生马男信至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0303",
+    "category": "宫室屋宇仓库",
+    "sourceText": "尾中生草家欲空",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0304",
+    "category": "宫室屋宇仓库",
+    "sourceText": "屋上生松柏益寿",
+    "suggestions": [
+      {
+        "title": "梦见松柏",
+        "keywords": [
+          "松柏",
+          "松树",
+          "柏树"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0305",
+    "category": "宫室屋宇仓库",
+    "sourceText": "修理田舍有大喜",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0306",
+    "category": "宫室屋宇仓库",
+    "sourceText": "入寺院中生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0307",
+    "category": "宫室屋宇仓库",
+    "sourceText": "寺舍看经病人痊",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0308",
+    "category": "宫室屋宇仓库",
+    "sourceText": "迁移尼寺主病至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0309",
+    "category": "宫室屋宇仓库",
+    "sourceText": "超盖仓库福禄至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0310",
+    "category": "宫室屋宇仓库",
+    "sourceText": "仓库崩坏百事凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0311",
+    "category": "宫室屋宇仓库",
+    "sourceText": "入仓库中大吉昌",
+    "suggestions": [
+      {
+        "title": "梦见入仓库",
+        "keywords": [
+          "入仓库",
+          "仓房",
+          "库房"
+        ],
+        "score": 0.8552
+      }
+    ]
+  },
+  {
+    "id": "zg-0312",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户高大主富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0313",
+    "category": "门户井灶橱厕",
+    "sourceText": "新开门户大富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0314",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户忽开主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0315",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户大开大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0316",
+    "category": "门户井灶橱厕",
+    "sourceText": "门更新主生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0317",
+    "category": "门户井灶橱厕",
+    "sourceText": "门自开妻有私情",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0318",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户裂开主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0319",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户破碎有凶事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0320",
+    "category": "门户井灶橱厕",
+    "sourceText": "城门大开主口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0321",
+    "category": "门户井灶橱厕",
+    "sourceText": "宫城塞者口舌至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0322",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户闭塞事不能",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0323",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户败坏主大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0324",
+    "category": "门户井灶橱厕",
+    "sourceText": "门扇自折奴仆走",
+    "suggestions": [
+      {
+        "title": "梦见两扇门",
+        "keywords": [
+          "两扇门",
+          "门扇",
+          "双门"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0325",
+    "category": "门户井灶橱厕",
+    "sourceText": "门户内无人大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0326",
+    "category": "门户井灶橱厕",
+    "sourceText": "修移门户大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0327",
+    "category": "门户井灶橱厕",
+    "sourceText": "石为门户主寿命",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0328",
+    "category": "门户井灶橱厕",
+    "sourceText": "门前生洲作刺史",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0329",
+    "category": "门户井灶橱厕",
+    "sourceText": "门前坑沟事不成",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0330",
+    "category": "门户井灶橱厕",
+    "sourceText": "天火烧门主凶事",
+    "suggestions": []
+  }
+]

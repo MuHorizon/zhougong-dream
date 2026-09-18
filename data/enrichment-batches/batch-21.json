@@ -1,0 +1,221 @@
+[
+  {
+    "id": "zg-0601",
+    "category": "文书笔墨兵器",
+    "sourceText": "有人教书大富贵",
+    "suggestions": [
+      {
+        "title": "梦见教书",
+        "keywords": [
+          "教书",
+          "授业",
+          "教书育人"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0602",
+    "category": "文书笔墨兵器",
+    "sourceText": "见读书者主聪明",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0603",
+    "category": "文书笔墨兵器",
+    "sourceText": "观人读书生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0604",
+    "category": "文书笔墨兵器",
+    "sourceText": "得历日者中黄甲",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0605",
+    "category": "文书笔墨兵器",
+    "sourceText": "封书信者主通达",
+    "suggestions": [
+      {
+        "title": "梦见书信通达",
+        "keywords": [
+          "书信通达",
+          "封书信",
+          "信通"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0606",
+    "category": "文书笔墨兵器",
+    "sourceText": "手弄笔砚主远信",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0607",
+    "category": "文书笔墨兵器",
+    "sourceText": "人与墨者文章进",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0608",
+    "category": "文书笔墨兵器",
+    "sourceText": "人将已笔文章退",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0609",
+    "category": "文书笔墨兵器",
+    "sourceText": "他人起笔主财进",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0610",
+    "category": "文书笔墨兵器",
+    "sourceText": "君王队伍有异名",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0611",
+    "category": "文书笔墨兵器",
+    "sourceText": "得大赦者宅舍凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0612",
+    "category": "文书笔墨兵器",
+    "sourceText": "就人卜易主疾病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0613",
+    "category": "文书笔墨兵器",
+    "sourceText": "受人纸钱主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0614",
+    "category": "文书笔墨兵器",
+    "sourceText": "公座移动主迁官",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0615",
+    "category": "文书笔墨兵器",
+    "sourceText": "受职上官财物来",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0616",
+    "category": "文书笔墨兵器",
+    "sourceText": "佩印公爵主大吉",
+    "suggestions": [
+      {
+        "title": "梦见戴印",
+        "keywords": [
+          "戴印",
+          "佩印",
+          "公印"
+        ],
+        "score": 0.7704
+      },
+      {
+        "title": "梦见佩印",
+        "keywords": [
+          "佩印",
+          "印信",
+          "公印"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0617",
+    "category": "文书笔墨兵器",
+    "sourceText": "佩印执笏主移居",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0618",
+    "category": "文书笔墨兵器",
+    "sourceText": "佩印信者名准出",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0619",
+    "category": "文书笔墨兵器",
+    "sourceText": "印绶改迁生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0620",
+    "category": "文书笔墨兵器",
+    "sourceText": "棋子主添丁进口",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0621",
+    "category": "文书笔墨兵器",
+    "sourceText": "打球者主得虚名",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0622",
+    "category": "文书笔墨兵器",
+    "sourceText": "兵马入城福禄至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0623",
+    "category": "文书笔墨兵器",
+    "sourceText": "率众破贼所求得",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0624",
+    "category": "文书笔墨兵器",
+    "sourceText": "见军兵败主凶事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0625",
+    "category": "文书笔墨兵器",
+    "sourceText": "已射人必主远行",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0626",
+    "category": "文书笔墨兵器",
+    "sourceText": "人射已有行人至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0627",
+    "category": "文书笔墨兵器",
+    "sourceText": "持弓夭者主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0628",
+    "category": "文书笔墨兵器",
+    "sourceText": "挽弓弦断主凶恶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0629",
+    "category": "文书笔墨兵器",
+    "sourceText": "人送弓弩得人力",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0630",
+    "category": "文书笔墨兵器",
+    "sourceText": "弩弦难上兄弟散",
+    "suggestions": []
+  }
+]

@@ -1,0 +1,29 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"main": "@astrojs/cloudflare/entrypoints/server",
+	"name": "zhougong-dream-site",
+	"compatibility_date": "2026-09-17",
+	"compatibility_flags": [
+		"nodejs_compat",
+		"global_fetch_strictly_public"
+	],
+	"assets": {
+		"binding": "ASSETS",
+		"directory": "./dist"
+	},
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "zhougong-dream-db",
+			"database_id": "a993ab98-ed9f-4fc2-b9c0-31c45c8a56a2",
+			"migrations_dir": "migrations"
+		}
+	],
+	"vars": {
+  "AI_API_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+  "AI_MODELS": "qwen3.7-flash-2026-07-15,qwen3.7-flash,qwen3.8-max,qwen3.8-2.4t-a95b,qwen3.8-27b,qwen3.8-flash,qwen3.8-max-0902"
+}
+}

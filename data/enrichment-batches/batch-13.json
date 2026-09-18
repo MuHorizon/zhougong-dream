@@ -1,0 +1,252 @@
+[
+  {
+    "id": "zg-0361",
+    "category": "门户井灶橱厕",
+    "sourceText": "厕中屎溢大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0362",
+    "category": "门户井灶橱厕",
+    "sourceText": "粪中坐者主大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0363",
+    "category": "门户井灶橱厕",
+    "sourceText": "粪土堆积主得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0364",
+    "category": "金银珠玉绢帛",
+    "sourceText": "金银宝者主富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0365",
+    "category": "金银珠玉绢帛",
+    "sourceText": "金银珠玉大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0366",
+    "category": "金银珠玉绢帛",
+    "sourceText": "金银杯皿有贵孕",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0367",
+    "category": "金银珠玉绢帛",
+    "sourceText": "金银作铛器大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0368",
+    "category": "金银珠玉绢帛",
+    "sourceText": "玉积如山大富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0369",
+    "category": "金银珠玉绢帛",
+    "sourceText": "得金玉环生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0370",
+    "category": "金银珠玉绢帛",
+    "sourceText": "铜裆主有口舌至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0371",
+    "category": "金银珠玉绢帛",
+    "sourceText": "珠玉满怀主大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0372",
+    "category": "金银珠玉绢帛",
+    "sourceText": "得玉碗器物皆吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0373",
+    "category": "金银珠玉绢帛",
+    "sourceText": "见铁器物主得财",
+    "suggestions": [
+      {
+        "title": "梦见铁器",
+        "keywords": [
+          "铁器",
+          "见铁器",
+          "铁物"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0374",
+    "category": "金银珠玉绢帛",
+    "sourceText": "铅与锡者主得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0375",
+    "category": "金银珠玉绢帛",
+    "sourceText": "得铜物主大富贵",
+    "suggestions": [
+      {
+        "title": "梦见铜器",
+        "keywords": [
+          "铜器",
+          "铜钱",
+          "铜物"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0376",
+    "category": "金银珠玉绢帛",
+    "sourceText": "镶铅器物疾病去",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0377",
+    "category": "金银珠玉绢帛",
+    "sourceText": "还人钱物疾病去",
+    "suggestions": [
+      {
+        "title": "梦见还钱",
+        "keywords": [
+          "还钱",
+          "还人钱物",
+          "还债"
+        ],
+        "score": 0.9343999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0378",
+    "category": "金银珠玉绢帛",
+    "sourceText": "拾得钱物皆大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0379",
+    "category": "金银珠玉绢帛",
+    "sourceText": "钱春夏吉秋冬凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0380",
+    "category": "金银珠玉绢帛",
+    "sourceText": "家中分财主离散",
+    "suggestions": [
+      {
+        "title": "梦见分财",
+        "keywords": [
+          "分财",
+          "家中分财",
+          "散财"
+        ],
+        "score": 0.9044
+      }
+    ]
+  },
+  {
+    "id": "zg-0381",
+    "category": "金银珠玉绢帛",
+    "sourceText": "赠彩帛者主有权",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0382",
+    "category": "金银珠玉绢帛",
+    "sourceText": "贵人赐绫锦官至",
+    "suggestions": [
+      {
+        "title": "梦见绫锦",
+        "keywords": [
+          "绫锦",
+          "锦绣",
+          "绫罗"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0383",
+    "category": "金银珠玉绢帛",
+    "sourceText": "人赐绢帛大吉昌",
+    "suggestions": [
+      {
+        "title": "梦见绢帛",
+        "keywords": [
+          "绢帛",
+          "帛",
+          "绸帛"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0384",
+    "category": "金银珠玉绢帛",
+    "sourceText": "与人丝帛大凶恶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0385",
+    "category": "金银珠玉绢帛",
+    "sourceText": "得他人麻布衣凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0386",
+    "category": "金银珠玉绢帛",
+    "sourceText": "得布帛远亲来至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0387",
+    "category": "金银珠玉绢帛",
+    "sourceText": "与人衣服官事至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0388",
+    "category": "金银珠玉绢帛",
+    "sourceText": "寻丝绢主进入口",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0389",
+    "category": "金银珠玉绢帛",
+    "sourceText": "纺绩者主寿命长",
+    "suggestions": [
+      {
+        "title": "梦见纺织",
+        "keywords": [
+          "纺织",
+          "纺绩",
+          "织布"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0390",
+    "category": "金银珠玉绢帛",
+    "sourceText": "经络者主被人辱",
+    "suggestions": []
+  }
+]

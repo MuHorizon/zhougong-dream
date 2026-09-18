@@ -1,0 +1,261 @@
+[
+  {
+    "id": "zg-0661",
+    "category": "哀乐病死歌唱",
+    "sourceText": "子死者主添喜事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0662",
+    "category": "哀乐病死歌唱",
+    "sourceText": "见死亡尊长大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0663",
+    "category": "哀乐病死歌唱",
+    "sourceText": "门吊他人主生子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0664",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "诸佛菩萨大吉利",
+    "suggestions": [
+      {
+        "title": "梦见菩萨",
+        "keywords": [
+          "菩萨",
+          "大慈大悲",
+          "慈悲"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0665",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "法师登座有疾病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0666",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "老君真人皆主吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0667",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "画神佛者得人钦",
+    "suggestions": [
+      {
+        "title": "梦见画神像",
+        "keywords": [
+          "画神像",
+          "画神佛",
+          "绘像"
+        ],
+        "score": 0.8552
+      }
+    ]
+  },
+  {
+    "id": "zg-0668",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "看神佛者妻有子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0669",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "佛共人言有福助",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0670",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "入神庙神动大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0671",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "道施盖者大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0672",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "憎师教人念经吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0673",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "道士女冠言语吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0674",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "和尚尼姑看以闷",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0675",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "被鬼神打大不祥",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0676",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "堂上神佛大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0677",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "神佛不成行大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0678",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "烧香礼拜皆大吉",
+    "suggestions": [
+      {
+        "title": "梦见烧香",
+        "keywords": [
+          "烧香",
+          "拈香",
+          "上香"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0679",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "迎神赛社有外财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0680",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "仙圣到家福禄至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0681",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "与鬼斗者主延寿",
+    "suggestions": [
+      {
+        "title": "梦见与鬼斗",
+        "keywords": [
+          "与鬼斗",
+          "鬼斗",
+          "与鬼打"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0682",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "祭祀神道大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0683",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "身受戒行者子孝",
+    "suggestions": [
+      {
+        "title": "梦见身受戒",
+        "keywords": [
+          "身受戒",
+          "受戒",
+          "持戒"
+        ],
+        "score": 0.8852
+      },
+      {
+        "title": "梦见受戒",
+        "keywords": [
+          "受戒",
+          "持戒",
+          "戒身"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0684",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "与神女通得贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0685",
+    "category": "佛道僧尼鬼神",
+    "sourceText": "与尼姑交主失财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0686",
+    "category": "杀害斗伤打骂",
+    "sourceText": "被人打害者大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0687",
+    "category": "杀害斗伤打骂",
+    "sourceText": "杀死他人人富贵",
+    "suggestions": [
+      {
+        "title": "梦见杀人",
+        "keywords": [
+          "杀人",
+          "杀死他人",
+          "杀害"
+        ],
+        "score": 0.8744
+      }
+    ]
+  },
+  {
+    "id": "zg-0688",
+    "category": "杀害斗伤打骂",
+    "sourceText": "持刀自杀者大吉",
+    "suggestions": [
+      {
+        "title": "梦见自杀",
+        "keywords": [
+          "自杀",
+          "持刀自杀",
+          "自刎"
+        ],
+        "score": 0.9343999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0689",
+    "category": "杀害斗伤打骂",
+    "sourceText": "杀人血污衣得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0690",
+    "category": "杀害斗伤打骂",
+    "sourceText": "被刀刺尖出快利",
+    "suggestions": []
+  }
+]

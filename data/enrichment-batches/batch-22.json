@@ -1,0 +1,213 @@
+[
+  {
+    "id": "zg-0631",
+    "category": "文书笔墨兵器",
+    "sourceText": "弓弩相斗生争论",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0632",
+    "category": "文书笔墨兵器",
+    "sourceText": "戈铖有光禄们至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0633",
+    "category": "文书笔墨兵器",
+    "sourceText": "披甲杖剑得高官",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0634",
+    "category": "哀乐病死歌唱",
+    "sourceText": "与人哭泣有庆贺",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0635",
+    "category": "哀乐病死歌唱",
+    "sourceText": "放声大哭欢乐生",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0636",
+    "category": "哀乐病死歌唱",
+    "sourceText": "身着孝服官禄至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0637",
+    "category": "哀乐病死歌唱",
+    "sourceText": "远人来悲泣主凶",
+    "suggestions": [
+      {
+        "title": "梦见外乡客",
+        "keywords": [
+          "外乡客",
+          "远客",
+          "远人"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0638",
+    "category": "哀乐病死歌唱",
+    "sourceText": "床上哭泣主大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0639",
+    "category": "哀乐病死歌唱",
+    "sourceText": "见歌舞者口舌至",
+    "suggestions": [
+      {
+        "title": "梦见歌舞",
+        "keywords": [
+          "歌舞",
+          "跳舞",
+          "舞蹈",
+          "起舞"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0640",
+    "category": "哀乐病死歌唱",
+    "sourceText": "家中欢喜百事吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0641",
+    "category": "哀乐病死歌唱",
+    "sourceText": "怀中琵琶行人力",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0642",
+    "category": "哀乐病死歌唱",
+    "sourceText": "他人与笛有名声",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0643",
+    "category": "哀乐病死歌唱",
+    "sourceText": "与人扣板有口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0644",
+    "category": "哀乐病死歌唱",
+    "sourceText": "堂上歌乐主丧事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0645",
+    "category": "哀乐病死歌唱",
+    "sourceText": "吹笙者主有更欢",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0646",
+    "category": "哀乐病死歌唱",
+    "sourceText": "吹笛打鼓有吉庆",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0647",
+    "category": "哀乐病死歌唱",
+    "sourceText": "他人作乐讼有理",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0648",
+    "category": "哀乐病死歌唱",
+    "sourceText": "露齿哭者有争讼",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0649",
+    "category": "哀乐病死歌唱",
+    "sourceText": "病卧为人扶加官",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0650",
+    "category": "哀乐病死歌唱",
+    "sourceText": "病重者主有凶事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0651",
+    "category": "哀乐病死歌唱",
+    "sourceText": "自疾病者主有喜",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0652",
+    "category": "哀乐病死歌唱",
+    "sourceText": "病人歌唱主大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0653",
+    "category": "哀乐病死歌唱",
+    "sourceText": "病人哭笑疾病除",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0654",
+    "category": "哀乐病死歌唱",
+    "sourceText": "病人起者必定起",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0655",
+    "category": "哀乐病死歌唱",
+    "sourceText": "病人装车必死亡",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0656",
+    "category": "哀乐病死歌唱",
+    "sourceText": "死人哭泣有口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0657",
+    "category": "哀乐病死歌唱",
+    "sourceText": "死人立者主大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0658",
+    "category": "哀乐病死歌唱",
+    "sourceText": "死人哭坏者得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0659",
+    "category": "哀乐病死歌唱",
+    "sourceText": "死人复活主有信",
+    "suggestions": [
+      {
+        "title": "梦见死人复活",
+        "keywords": [
+          "死人复活",
+          "死者还魂",
+          "死人重生"
+        ],
+        "score": 0.9164
+      }
+    ]
+  },
+  {
+    "id": "zg-0660",
+    "category": "哀乐病死歌唱",
+    "sourceText": "见人死自死皆吉",
+    "suggestions": []
+  }
+]

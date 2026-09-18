@@ -1,0 +1,232 @@
+[
+  {
+    "id": "zg-0121",
+    "category": "身体面目齿发",
+    "sourceText": "身病虫出得重职",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0122",
+    "category": "身体面目齿发",
+    "sourceText": "身上虫行病患安",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0123",
+    "category": "身体面目齿发",
+    "sourceText": "绳索系身长命吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0124",
+    "category": "身体面目齿发",
+    "sourceText": "枷索临身病欲来",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0125",
+    "category": "身体面目齿发",
+    "sourceText": "身或肥瘦皆为凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0126",
+    "category": "身体面目齿发",
+    "sourceText": "面对官者主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0127",
+    "category": "身体面目齿发",
+    "sourceText": "露体无衣吉大利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0128",
+    "category": "身体面目齿发",
+    "sourceText": "妇人披头有私情",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0129",
+    "category": "身体面目齿发",
+    "sourceText": "头白主长命大吉",
+    "suggestions": [
+      {
+        "title": "梦见白发",
+        "keywords": [
+          "白发",
+          "头白",
+          "须发白"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0130",
+    "category": "身体面目齿发",
+    "sourceText": "头生两角有争竞",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0131",
+    "category": "身体面目齿发",
+    "sourceText": "头秃发落皆凶事",
+    "suggestions": [
+      {
+        "title": "梦见秃头",
+        "keywords": [
+          "秃头",
+          "头秃",
+          "落发"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0132",
+    "category": "身体面目齿发",
+    "sourceText": "面生疮黑主子凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0133",
+    "category": "身体面目齿发",
+    "sourceText": "头须自落忧子孙",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0134",
+    "category": "身体面目齿发",
+    "sourceText": "头须再生主长命",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0135",
+    "category": "身体面目齿发",
+    "sourceText": "沐浴迁官疾病除",
+    "suggestions": [
+      {
+        "title": "梦见沐浴贵客",
+        "keywords": [
+          "沐浴",
+          "贵客沐浴",
+          "与贵人沐浴"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0136",
+    "category": "身体面目齿发",
+    "sourceText": "洗手洗足旧患除",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0137",
+    "category": "身体面目齿发",
+    "sourceText": "照镜明吉暗者凶",
+    "suggestions": [
+      {
+        "title": "梦见照镜",
+        "keywords": [
+          "照镜",
+          "镜中",
+          "自己照镜"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0138",
+    "category": "身体面目齿发",
+    "sourceText": "破镜照人主分散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0139",
+    "category": "身体面目齿发",
+    "sourceText": "手足浓血出大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0140",
+    "category": "身体面目齿发",
+    "sourceText": "屎尿污人大吉亨",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0141",
+    "category": "身体面目齿发",
+    "sourceText": "露头披发阴人谋",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0142",
+    "category": "身体面目齿发",
+    "sourceText": "披头盖面官讼至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0143",
+    "category": "身体面目齿发",
+    "sourceText": "剪剃头发家内凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0144",
+    "category": "身体面目齿发",
+    "sourceText": "眉与发齐禄位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0145",
+    "category": "身体面目齿发",
+    "sourceText": "齿自落者父母凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0146",
+    "category": "身体面目齿发",
+    "sourceText": "齿落更生子孙兴",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0147",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "戴冠登车官欲迁",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0148",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "自戴帽头巾帽吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0149",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "簪冠登台职位迁",
+    "suggestions": [
+      {
+        "title": "梦见登台",
+        "keywords": [
+          "登台",
+          "台坛",
+          "上坛"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0150",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "贵人与之衣冠吉",
+    "suggestions": []
+  }
+]

@@ -1,0 +1,476 @@
+{
+  "errors": [
+    "zg-0004: searchTerms 疑似混入解释结果「天明妇有生贵子」",
+    "zg-0005: searchTerms 疑似混入解释结果「天门未至有兵荒」",
+    "zg-0006: searchTerms 疑似混入解释结果「仰面向天大富贵」",
+    "zg-0008: searchTerms 存在重复",
+    "zg-0009: searchTerms 存在重复",
+    "zg-0009: searchTerms 疑似混入解释结果「上天取物位王侯」",
+    "zg-0010: searchTerms 存在重复",
+    "zg-0010: searchTerms 疑似混入解释结果「飞上天富贵大吉」",
+    "zg-0010: searchTerms 疑似混入解释结果「飞上天富贵大吉」",
+    "zg-0011: searchTerms 存在重复",
+    "zg-0011: searchTerms 疑似混入解释结果「天上屋得高官」",
+    "zg-0012: searchTerms 存在重复",
+    "zg-0013: searchTerms 存在重复",
+    "zg-0013: searchTerms 疑似混入解释结果「天皇明主公卿至」",
+    "zg-0014: searchTerms 存在重复",
+    "zg-0014: searchTerms 疑似混入解释结果「天欲晓益寿命吉」",
+    "zg-0015: searchTerms 存在重复",
+    "zg-0016: searchTerms 存在重复",
+    "zg-0017: searchTerms 存在重复",
+    "zg-0017: searchTerms 疑似混入解释结果「天公使有大吉祥」",
+    "zg-0018: searchTerms 存在重复",
+    "zg-0019: searchTerms 存在重复",
+    "zg-0020: searchTerms 存在重复",
+    "zg-0021: searchTerms 存在重复",
+    "zg-0022: searchTerms 存在重复",
+    "zg-0022: searchTerms 疑似混入解释结果「日月欲出有官职」",
+    "zg-0023: searchTerms 存在重复",
+    "zg-0024: searchTerms 存在重复",
+    "zg-0025: searchTerms 存在重复",
+    "zg-0025: searchTerms 疑似混入解释结果「负抱日月贵王侯」",
+    "zg-0026: searchTerms 存在重复",
+    "zg-0026: searchTerms 疑似混入解释结果「吞日月当生贵子」",
+    "zg-0027: searchTerms 存在重复",
+    "zg-0027: searchTerms 疑似混入解释结果「礼拜日月大吉昌」",
+    "zg-0028: searchTerms 存在重复",
+    "zg-0028: searchTerms 疑似混入解释结果「日光入屋官位至」",
+    "zg-0029: searchTerms 疑似混入解释结果「日初出无云大吉」",
+    "zg-0030: searchTerms 存在重复"
+  ],
+  "output": [
+    {
+      "id": "zg-0001",
+      "symbols": [
+        "天门"
+      ],
+      "situation": "天门打开",
+      "interpretation": "传统解梦中，梦见天门打开，被解释为可能预示着有贵人引荐。",
+      "searchTerms": [
+        "天门开",
+        "天门打开",
+        "梦见天门",
+        "梦见天门开"
+      ]
+    },
+    {
+      "id": "zg-0002",
+      "symbols": [
+        "天光"
+      ],
+      "situation": "天光照在身上",
+      "interpretation": "传统解梦中，梦见天光照在身上，被视为与消除疾病有关。",
+      "searchTerms": [
+        "天光灼身",
+        "梦见天光",
+        "天光照身",
+        "梦见天光照身"
+      ]
+    },
+    {
+      "id": "zg-0003",
+      "symbols": [
+        "天晴",
+        "雨散"
+      ],
+      "situation": "天晴雨散",
+      "interpretation": "传统解梦中，梦见天晴雨散，被解释为与消除百般忧愁有关。",
+      "searchTerms": [
+        "天晴雨散",
+        "梦见天晴",
+        "雨散",
+        "天晴雨散去"
+      ]
+    },
+    {
+      "id": "zg-0004",
+      "symbols": [
+        "天明"
+      ],
+      "situation": "天明时妇人相关景象",
+      "interpretation": "传统解梦中，梦见天明时妇人相关景象，被解释为可能预示着生下贵子。",
+      "searchTerms": [
+        "天明妇有生贵子",
+        "天明",
+        "梦见天明",
+        "天明妇"
+      ]
+    },
+    {
+      "id": "zg-0005",
+      "symbols": [
+        "天门"
+      ],
+      "situation": "天门未至",
+      "interpretation": "传统解梦中，梦见天门未至，被解释为可能与兵荒马乱有关。",
+      "searchTerms": [
+        "天门未至",
+        "天门未到",
+        "梦见天门未至",
+        "天门未至有兵荒"
+      ]
+    },
+    {
+      "id": "zg-0006",
+      "symbols": [
+        "天"
+      ],
+      "situation": "仰面向天",
+      "interpretation": "传统解梦中，梦见仰面向天，被解释为预示着大富贵。",
+      "searchTerms": [
+        "仰面向天",
+        "梦见仰天",
+        "仰天",
+        "仰面向天大富贵"
+      ]
+    },
+    {
+      "id": "zg-0007",
+      "symbols": [
+        "龙"
+      ],
+      "situation": "乘龙上天",
+      "interpretation": "传统解梦中，梦见乘龙上天，被解释为预示着大富贵。",
+      "searchTerms": [
+        "乘龙上天",
+        "梦见乘龙",
+        "乘龙",
+        "梦见乘龙上天"
+      ]
+    },
+    {
+      "id": "zg-0008",
+      "symbols": [
+        "上天"
+      ],
+      "situation": "上天求妻",
+      "interpretation": "传统解梦中，梦见上天求妻，被解释为预示着儿女显贵。",
+      "searchTerms": [
+        "上天求妻",
+        "梦见上天求妻",
+        "上天求妻儿女贵",
+        "上天求妻"
+      ]
+    },
+    {
+      "id": "zg-0009",
+      "symbols": [
+        "上天"
+      ],
+      "situation": "上天取物",
+      "interpretation": "传统解梦中，梦见上天取物，被解释为预示着位至王侯。",
+      "searchTerms": [
+        "上天取物",
+        "梦见上天取物",
+        "上天取物位王侯",
+        "上天取物"
+      ]
+    },
+    {
+      "id": "zg-0010",
+      "symbols": [
+        "天"
+      ],
+      "situation": "飞上天",
+      "interpretation": "传统解梦中，梦见飞上天，被解释为预示着富贵大吉。",
+      "searchTerms": [
+        "飞上天",
+        "梦见飞上天",
+        "飞上天富贵大吉",
+        "飞上天"
+      ]
+    },
+    {
+      "id": "zg-0011",
+      "symbols": [
+        "天",
+        "屋"
+      ],
+      "situation": "天上屋",
+      "interpretation": "传统解梦中，梦见天上屋，被解释为预示着得高官。",
+      "searchTerms": [
+        "天上屋",
+        "梦见天上屋",
+        "天上屋得高官",
+        "天上屋"
+      ]
+    },
+    {
+      "id": "zg-0012",
+      "symbols": [
+        "天"
+      ],
+      "situation": "天裂",
+      "interpretation": "传统解梦中，梦见天裂，被解释为预示着国家有忧患。",
+      "searchTerms": [
+        "天裂",
+        "梦见天裂",
+        "天裂有分主国忧",
+        "天裂"
+      ]
+    },
+    {
+      "id": "zg-0013",
+      "symbols": [
+        "天皇"
+      ],
+      "situation": "天皇明",
+      "interpretation": "传统解梦中，梦见天皇明，被解释为预示着公卿到来。",
+      "searchTerms": [
+        "天皇明",
+        "梦见天皇明",
+        "天皇明主公卿至",
+        "天皇明"
+      ]
+    },
+    {
+      "id": "zg-0014",
+      "symbols": [
+        "天",
+        "晓"
+      ],
+      "situation": "天欲晓",
+      "interpretation": "传统解梦中，梦见天欲晓，被解释为预示着寿命吉祥。",
+      "searchTerms": [
+        "天欲晓",
+        "梦见天欲晓",
+        "天欲晓益寿命吉",
+        "天欲晓"
+      ]
+    },
+    {
+      "id": "zg-0015",
+      "symbols": [
+        "河"
+      ],
+      "situation": "渡天河",
+      "interpretation": "传统解梦中，梦见渡天河，被解释为预示着有所吉祥。",
+      "searchTerms": [
+        "渡天河",
+        "梦见渡天河",
+        "渡天河主有所吉",
+        "渡天河"
+      ]
+    },
+    {
+      "id": "zg-0016",
+      "symbols": [
+        "天",
+        "地"
+      ],
+      "situation": "天地合",
+      "interpretation": "传统解梦中，梦见天地合，被解释为所求皆得。",
+      "searchTerms": [
+        "天地合",
+        "梦见天地合",
+        "天地合所求皆得",
+        "天地合"
+      ]
+    },
+    {
+      "id": "zg-0017",
+      "symbols": [
+        "天公"
+      ],
+      "situation": "天公使",
+      "interpretation": "传统解梦中，梦见天公使，被解释为预示着大吉祥。",
+      "searchTerms": [
+        "天公使",
+        "梦见天公使",
+        "天公使有大吉祥",
+        "天公使"
+      ]
+    },
+    {
+      "id": "zg-0018",
+      "symbols": [
+        "太阳",
+        "月亮"
+      ],
+      "situation": "日月初出",
+      "interpretation": "传统解梦中，梦见日月初出，被解释为预示着家道昌盛。",
+      "searchTerms": [
+        "日月初出",
+        "日月初出",
+        "梦见日月初出",
+        "日月初出家道昌"
+      ]
+    },
+    {
+      "id": "zg-0019",
+      "symbols": [
+        "太阳",
+        "月亮"
+      ],
+      "situation": "日月照身",
+      "interpretation": "传统解梦中，梦见日月照身，被解释为预示着得重位。",
+      "searchTerms": [
+        "日月照身",
+        "梦见日月照身",
+        "日月照身得重位",
+        "日月照身"
+      ]
+    },
+    {
+      "id": "zg-0020",
+      "symbols": [
+        "太阳",
+        "月亮"
+      ],
+      "situation": "日月落",
+      "interpretation": "传统解梦中，梦见日月落，被解释为预示着父母忧愁。",
+      "searchTerms": [
+        "日月落",
+        "梦见日月落",
+        "日月落忧没父母",
+        "日月落"
+      ]
+    },
+    {
+      "id": "zg-0021",
+      "symbols": [
+        "太阳",
+        "月亮"
+      ],
+      "situation": "日月昏暗",
+      "interpretation": "传统解梦中，梦见日月昏暗，被解释为预示着孕妇吉祥。",
+      "searchTerms": [
+        "日月昏暗",
+        "梦见日月昏暗",
+        "日月昏暗孕妇吉",
+        "日月昏暗"
+      ]
+    },
+    {
+      "id": "zg-0022",
+      "symbols": [
+        "太阳",
+        "月亮"
+      ],
+      "situation": "日月欲出",
+      "interpretation": "传统解梦中，梦见日月欲出，被解释为预示着有官职。",
+      "searchTerms": [
+        "日月欲出",
+        "梦见日月欲出",
+        "日月欲出有官职",
+        "日月欲出"
+      ]
+    },
+    {
+      "id": "zg-0023",
+      "symbols": [
+        "太阳",
+        "月亮"
+      ],
+      "situation": "日月合会",
+      "interpretation": "传统解梦中，梦见日月合会，被解释为预示着妻子有子。",
+      "searchTerms": [
+        "日月合会",
+        "梦见日月合会",
+        "日月合会妻有子",
+        "日月合会"
+      ]
+    },
+    {
+      "id": "zg-0024",
+      "symbols": [
+        "太阳",
+        "月亮",
+        "山"
+      ],
+      "situation": "日月衔山",
+      "interpretation": "传统解梦中，梦见日月衔山，被解释为预示着奴欺主。",
+      "searchTerms": [
+        "日月衔山",
+        "梦见日月衔山",
+        "日月衔山奴欺主",
+        "日月衔山"
+      ]
+    },
+    {
+      "id": "zg-0025",
+      "symbols": [
+        "日月"
+      ],
+      "situation": "负抱日月",
+      "interpretation": "传统解梦中，梦见负抱日月，被解释为预示着贵为王侯。",
+      "searchTerms": [
+        "负抱日月",
+        "梦见负抱日月",
+        "负抱日月贵王侯",
+        "负抱日月"
+      ]
+    },
+    {
+      "id": "zg-0026",
+      "symbols": [
+        "日月"
+      ],
+      "situation": "吞日月",
+      "interpretation": "传统解梦中，梦见吞日月，被解释为预示着当生贵子。",
+      "searchTerms": [
+        "吞日月",
+        "梦见吞日月",
+        "吞日月当生贵子",
+        "吞日月"
+      ]
+    },
+    {
+      "id": "zg-0027",
+      "symbols": [
+        "日月"
+      ],
+      "situation": "礼拜日月",
+      "interpretation": "传统解梦中，梦见礼拜日月，被解释为预示着大吉昌。",
+      "searchTerms": [
+        "礼拜日月",
+        "梦见礼拜日月",
+        "礼拜日月大吉昌",
+        "礼拜日月"
+      ]
+    },
+    {
+      "id": "zg-0028",
+      "symbols": [
+        "日光"
+      ],
+      "situation": "日光入屋",
+      "interpretation": "传统解梦中，梦见日光入屋，被解释为预示着官位到来。",
+      "searchTerms": [
+        "日光入屋",
+        "梦见日光入屋",
+        "日光入屋官位至",
+        "日光入屋"
+      ]
+    },
+    {
+      "id": "zg-0029",
+      "symbols": [
+        "太阳"
+      ],
+      "situation": "日初出",
+      "interpretation": "传统解梦中，梦见日初出且无云，被解释为预示着大吉。",
+      "searchTerms": [
+        "日初出",
+        "日初出无云大吉",
+        "梦见日初出",
+        "日初出无云"
+      ]
+    },
+    {
+      "id": "zg-0030",
+      "symbols": [
+        "太阳"
+      ],
+      "situation": "日出有光",
+      "interpretation": "传统解梦中，梦见日出有光，被解释为预示着有好事。",
+      "searchTerms": [
+        "日出有光",
+        "梦见日出有光",
+        "日出有光有好事",
+        "日出有光"
+      ]
+    }
+  ]
+}

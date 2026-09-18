@@ -1,0 +1,222 @@
+[
+  {
+    "id": "zg-0181",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "众人着白主官事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0182",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "众人着红大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0183",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "妻着夫衣生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0184",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "女人着衫平无事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0185",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "与人共衣妾私情",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0186",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "失却衣服妻难产",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0187",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "好被自盖得富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0188",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "人着己履妻有私",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0189",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "得靴鞋主奴婢吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0190",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "的履主奴婢逃走",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0191",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "脱靴束带主有凶",
+    "suggestions": [
+      {
+        "title": "梦见脱鞋",
+        "keywords": [
+          "脱鞋",
+          "解鞋",
+          "脱靴"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0192",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "鞋破子孙妻妾病",
+    "suggestions": [
+      {
+        "title": "梦见破鞋",
+        "keywords": [
+          "破鞋",
+          "鞋破",
+          "鞋裂"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0193",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "着麻鞋百事和合",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0194",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "新授官爵主贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0195",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "乞得鞋履人助力",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0196",
+    "category": "冠带衣服鞋袜",
+    "sourceText": "木履脱时已出危",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0197",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "君主队杖有异吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0198",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "旌旗受宠大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0199",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "抱旌节主贵人扶",
+    "suggestions": [
+      {
+        "title": "梦见旌旗",
+        "keywords": [
+          "旌旗",
+          "旌旂",
+          "旌节"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0200",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "旌旗引入山主凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0201",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "造旌盖主大吉利",
+    "suggestions": [
+      {
+        "title": "梦见伞盖",
+        "keywords": [
+          "伞盖",
+          "旌盖",
+          "羽盖"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0202",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "羽益盖身主富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0203",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "旌旗迎接大富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0204",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "旗幡竞出主疾病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0205",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "手持旌节有恩偿",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0206",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "自盖覆身大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0207",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "见做新旗大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0208",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "与人分金主分散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0209",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "拔刀出行大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0210",
+    "category": "刀剑旌节钟鼓",
+    "sourceText": "得人刀主行人至",
+    "suggestions": []
+  }
+]

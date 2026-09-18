@@ -1,0 +1,232 @@
+[
+  {
+    "id": "zg-0781",
+    "category": "水火盗贼灯烛",
+    "sourceText": "流水绕身有狱讼",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0782",
+    "category": "水火盗贼灯烛",
+    "sourceText": "大水澄清大吉祥",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0783",
+    "category": "水火盗贼灯烛",
+    "sourceText": "人家有水见子亡",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0784",
+    "category": "水火盗贼灯烛",
+    "sourceText": "江海涨漫大吉昌",
+    "suggestions": [
+      {
+        "title": "梦见湖海",
+        "keywords": [
+          "湖海",
+          "江海",
+          "大湖"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0785",
+    "category": "水火盗贼灯烛",
+    "sourceText": "河水砂石益文章",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0786",
+    "category": "水火盗贼灯烛",
+    "sourceText": "火烧日月大人助",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0787",
+    "category": "水火盗贼灯烛",
+    "sourceText": "火烧河水长命吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0788",
+    "category": "水火盗贼灯烛",
+    "sourceText": "火烧山野大显达",
+    "suggestions": [
+      {
+        "title": "梦见火烧山",
+        "keywords": [
+          "火烧山",
+          "烧山",
+          "山火"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0789",
+    "category": "水火盗贼灯烛",
+    "sourceText": "火烧自是主兴旺",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0790",
+    "category": "水火盗贼灯烛",
+    "sourceText": "火焰炎炎主发财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0791",
+    "category": "水火盗贼灯烛",
+    "sourceText": "火从地生疾病至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0792",
+    "category": "水火盗贼灯烛",
+    "sourceText": "执火乘行官位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0793",
+    "category": "水火盗贼灯烛",
+    "sourceText": "大火烧天主国安",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0794",
+    "category": "水火盗贼灯烛",
+    "sourceText": "身在火中贵人扶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0795",
+    "category": "水火盗贼灯烛",
+    "sourceText": "火烟黑色主疾病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0796",
+    "category": "水火盗贼灯烛",
+    "sourceText": "把火行路不通达",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0797",
+    "category": "水火盗贼灯烛",
+    "sourceText": "把火烧井主病至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0798",
+    "category": "水火盗贼灯烛",
+    "sourceText": "赶贼入市不出凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0799",
+    "category": "水火盗贼灯烛",
+    "sourceText": "强贼入宅主家破",
+    "suggestions": [
+      {
+        "title": "梦见盗贼入宅",
+        "keywords": [
+          "盗贼入宅",
+          "强贼",
+          "盗入家"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0800",
+    "category": "水火盗贼灯烛",
+    "sourceText": "与贼同行大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0801",
+    "category": "水火盗贼灯烛",
+    "sourceText": "己身做喊所求得",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0802",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "屎尿污身主得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0803",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "大使满地主富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0804",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "患厕中得官禄位",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0805",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "落厕出吉不出凶",
+    "suggestions": [
+      {
+        "title": "梦见入粪坑",
+        "keywords": [
+          "入粪坑",
+          "粪坑",
+          "落厕"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0806",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "厕屋上卧主得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0807",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "厕中干者主家破",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0808",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "架厕屋主有财喜",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0809",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "挑粪回家大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0810",
+    "category": "污垢沐浴凌辱",
+    "sourceText": "在泥中所求不成",
+    "suggestions": [
+      {
+        "title": "梦见入泥",
+        "keywords": [
+          "入泥",
+          "泥泞",
+          "在泥中"
+        ],
+        "score": 0.8852
+      }
+    ]
+  }
+]

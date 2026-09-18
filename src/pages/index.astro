@@ -1,0 +1,1281 @@
+---
+export const prerender = false;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="写下昨晚的梦，用简单、温暖、好懂的方式重新理解梦里的画面。"
+    />
+    <title>周公解梦 · 昨晚，梦见了什么？</title>
+
+    <style>
+      :root {
+        font-family:
+          Inter,
+          "PingFang SC",
+          "Microsoft YaHei",
+          system-ui,
+          sans-serif;
+        color: #2f2118;
+        background: #fff7ee;
+        font-synthesis: none;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: #35261d;
+        background:
+          linear-gradient(rgba(255, 248, 239, 0.3), rgba(255, 244, 231, 0.42)),
+          url('/dream-bg.png') center top / cover fixed no-repeat;
+      }
+
+      button,
+      textarea {
+        font: inherit;
+      }
+
+      button {
+        -webkit-tap-highlight-color: transparent;
+      }
+
+      .page-shell {
+        position: relative;
+        min-height: 100vh;
+        overflow: hidden;
+      }
+
+      .page-shell::before {
+        content: '';
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        background:
+          radial-gradient(circle at 50% 10%, rgba(255, 255, 255, 0.56), transparent 34%),
+          linear-gradient(to bottom, rgba(255, 248, 238, 0.05), rgba(255, 241, 224, 0.18));
+        z-index: 0;
+      }
+
+      .header,
+      .hero,
+      .main-content,
+      .footer {
+        position: relative;
+        z-index: 1;
+      }
+
+      .header {
+        width: min(1180px, calc(100% - 48px));
+        margin: 0 auto;
+        padding: 24px 0 8px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+
+      .seal {
+        width: 38px;
+        height: 48px;
+        border: 2px solid #e85a2d;
+        border-radius: 9px;
+        display: grid;
+        place-items: center;
+        color: #e85a2d;
+        background: rgba(255, 249, 241, 0.72);
+        box-shadow: inset 0 0 0 4px rgba(232, 90, 45, 0.08);
+        font-family: "STKaiti", "KaiTi", serif;
+        font-weight: 700;
+        line-height: 1.05;
+        text-align: center;
+        font-size: 15px;
+      }
+
+      .brand-copy {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+      }
+
+      .brand-en {
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 13px;
+        letter-spacing: 0.18em;
+        color: #76594a;
+      }
+
+      .brand-cn {
+        font-family: "STKaiti", "KaiTi", serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: #402b1f;
+      }
+
+      .nav {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        font-size: 14px;
+        color: #6d5447;
+      }
+
+      .nav a {
+        color: inherit;
+        text-decoration: none;
+        position: relative;
+        padding: 8px 0;
+      }
+
+      .nav a:first-child::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 2px;
+        height: 2px;
+        border-radius: 99px;
+        background: #ed7a3b;
+      }
+
+      .hero {
+        width: min(980px, calc(100% - 48px));
+        margin: 24px auto 22px;
+        text-align: center;
+      }
+
+      .hero h1 {
+        margin: 0;
+        font-family: "STKaiti", "KaiTi", "Songti SC", serif;
+        font-size: clamp(52px, 7vw, 88px);
+        line-height: 1.05;
+        font-weight: 700;
+        letter-spacing: -0.04em;
+        color: #302017;
+        text-shadow: 0 2px 12px rgba(255, 255, 255, 0.5);
+      }
+
+      .hero h1 .accent {
+        color: #d95b2b;
+      }
+
+      .hero p {
+        margin: 14px auto 0;
+        max-width: 700px;
+        font-size: 16px;
+        line-height: 1.9;
+        color: #745d50;
+      }
+
+      .side-poem {
+        position: absolute;
+        z-index: 1;
+        font-family: "STKaiti", "KaiTi", serif;
+        color: rgba(116, 79, 56, 0.8);
+        user-select: none;
+        pointer-events: none;
+      }
+
+      .side-poem.left {
+        top: 155px;
+        left: max(22px, calc(50% - 690px));
+        display: flex;
+        flex-direction: row-reverse;
+        gap: 10px;
+        font-size: 17px;
+      }
+
+      .side-poem.left span,
+      .side-poem.left strong {
+        writing-mode: vertical-rl;
+        text-orientation: upright;
+        letter-spacing: 0.14em;
+        line-height: 1.7;
+      }
+
+      .side-poem.right {
+        top: 168px;
+        right: max(22px, calc(50% - 690px));
+        width: 140px;
+        font-size: 17px;
+        line-height: 1.9;
+        letter-spacing: 0.08em;
+      }
+
+      .side-poem.right span,
+      .side-poem.right strong,
+      .side-poem.right-bottom span {
+        display: block;
+      }
+
+      .side-poem.right-bottom {
+        top: auto;
+        right: max(28px, calc(50% - 680px));
+        bottom: 145px;
+        width: 100px;
+        font-size: 17px;
+        line-height: 1.9;
+        letter-spacing: 0.08em;
+      }
+
+      .side-poem strong {
+        color: #cf6a38;
+        font-weight: 600;
+      }
+
+      .side-poem .poem-dash {
+        margin-top: 2px;
+      }
+
+      .main-content {
+        width: min(930px, calc(100% - 48px));
+        margin: 0 auto;
+        padding-bottom: 56px;
+      }
+
+      .glass-card {
+        border: 1px solid rgba(196, 154, 118, 0.24);
+        background: rgba(255, 252, 248, 0.88);
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+        box-shadow:
+          0 22px 65px rgba(120, 79, 46, 0.11),
+          inset 0 1px 0 rgba(255, 255, 255, 0.9);
+      }
+
+      .dream-card {
+        border-radius: 26px;
+        padding: 22px;
+      }
+
+      .textarea-wrap {
+        position: relative;
+        border: 1px solid rgba(195, 157, 124, 0.28);
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.63);
+        overflow: hidden;
+      }
+
+      textarea {
+        width: 100%;
+        min-height: 170px;
+        display: block;
+        resize: vertical;
+        border: 0;
+        outline: 0;
+        background: transparent;
+        padding: 20px 20px 42px;
+        color: #2f2925;
+        font-size: 17px;
+        line-height: 1.9;
+      }
+
+      textarea::placeholder {
+        color: #a3978e;
+      }
+
+      .counter {
+        position: absolute;
+        right: 16px;
+        bottom: 12px;
+        font-size: 12px;
+        color: #ad9f95;
+        font-variant-numeric: tabular-nums;
+      }
+
+      .dream-card-footer {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        align-items: center;
+        gap: 18px;
+        padding-top: 16px;
+      }
+
+      .helper {
+        min-width: 0;
+      }
+
+      .helper-line {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 10px;
+        color: #817165;
+        font-size: 13px;
+      }
+
+      .helper-icon {
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        display: inline-grid;
+        place-items: center;
+        flex: 0 0 auto;
+        color: #d66b35;
+        background: #fff1df;
+      }
+
+      .usage-status {
+        margin-top: 2px;
+        font-size: 12px;
+        color: #a08e80;
+      }
+
+      .example-row {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .example-label {
+        font-size: 12px;
+        color: #9a8d84;
+      }
+
+      .example-chip {
+        border: 1px solid rgba(202, 166, 137, 0.2);
+        background: rgba(249, 241, 231, 0.86);
+        color: #7b6658;
+        border-radius: 999px;
+        padding: 7px 12px;
+        font-size: 12px;
+        cursor: pointer;
+        transition: 0.2s ease;
+      }
+
+      .example-chip:hover {
+        transform: translateY(-1px);
+        color: #cb5c2d;
+        border-color: rgba(220, 104, 52, 0.35);
+        background: #fff5e8;
+      }
+
+      .submit-btn {
+        min-width: 168px;
+        border: 0;
+        border-radius: 999px;
+        padding: 15px 24px;
+        color: #fff;
+        background: linear-gradient(110deg, #f6ae37 0%, #f47b37 48%, #e95f3e 100%);
+        box-shadow: 0 12px 28px rgba(232, 104, 53, 0.28);
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 650;
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease,
+          opacity 0.2s ease;
+      }
+
+      .submit-btn:hover:not(:disabled) {
+        transform: translateY(-2px);
+        box-shadow: 0 16px 34px rgba(232, 104, 53, 0.34);
+      }
+
+      .submit-btn:disabled {
+        opacity: 0.58;
+        cursor: wait;
+      }
+
+      .result-card {
+        display: none;
+        margin-top: 22px;
+        border-radius: 26px;
+        padding: 22px;
+      }
+
+      .result-card.show {
+        display: block;
+        animation: card-in 0.34s ease both;
+      }
+
+      @keyframes card-in {
+        from {
+          opacity: 0;
+          transform: translateY(8px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .result-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 18px;
+        margin-bottom: 16px;
+      }
+
+      .result-title-wrap {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+
+      .lotus-mark {
+        width: 46px;
+        height: 46px;
+        border-radius: 50%;
+        display: grid;
+        place-items: center;
+        background: linear-gradient(145deg, #fff2d5, #ffe4c0);
+        color: #e97838;
+        font-size: 22px;
+        box-shadow: inset 0 0 0 1px rgba(226, 122, 56, 0.13);
+      }
+
+      .result-title {
+        margin: 0;
+        font-family: "STKaiti", "KaiTi", serif;
+        font-size: 24px;
+        color: #39251a;
+      }
+
+      .result-subtitle {
+        margin: 2px 0 0;
+        font-size: 12px;
+        color: #96877c;
+      }
+
+      .wish-note {
+        font-family: "STKaiti", "KaiTi", cursive;
+        color: #e5743a;
+        font-size: 16px;
+        transform: rotate(-3deg);
+        white-space: nowrap;
+      }
+
+      .progress-wrap {
+        display: none;
+        border-radius: 16px;
+        padding: 18px 18px 16px;
+        background: rgba(249, 237, 221, 0.72);
+      }
+
+      .progress-wrap.show {
+        display: block;
+      }
+
+      .progress-steps {
+        position: relative;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 8px;
+        margin-bottom: 18px;
+      }
+
+      .progress-steps::before {
+        content: '';
+        position: absolute;
+        left: 12.5%;
+        right: 12.5%;
+        top: 9px;
+        height: 1px;
+        background: #decab6;
+      }
+
+      .progress-step {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+        text-align: center;
+        color: #a08e80;
+        font-size: 12px;
+      }
+
+      .step-dot {
+        width: 19px;
+        height: 19px;
+        display: grid;
+        place-items: center;
+        border-radius: 50%;
+        border: 2px solid #d9c4af;
+        background: #fff8ef;
+        transition: 0.25s ease;
+      }
+
+      .progress-step.active {
+        color: #d85f2d;
+        font-weight: 650;
+      }
+
+      .progress-step.active .step-dot,
+      .progress-step.done .step-dot {
+        border-color: #ef7b3c;
+        background: #ef7b3c;
+        color: #fff;
+        box-shadow: 0 0 0 4px rgba(239, 123, 60, 0.1);
+      }
+
+      .progress-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        margin-bottom: 10px;
+        font-size: 13px;
+      }
+
+      .progress-text {
+        color: #d55c2d;
+        font-weight: 650;
+      }
+
+      .progress-percent {
+        color: #826f61;
+        font-variant-numeric: tabular-nums;
+      }
+
+      .progress-track {
+        width: 100%;
+        height: 9px;
+        border-radius: 999px;
+        overflow: hidden;
+        background: #eadccc;
+      }
+
+      .progress-fill {
+        width: 0%;
+        height: 100%;
+        border-radius: inherit;
+        background: linear-gradient(90deg, #ee6d3c, #f49a42, #f7b55a);
+        transition: width 0.45s ease;
+      }
+
+      .result-content {
+        display: none;
+      }
+
+      .result-content.show {
+        display: block;
+      }
+
+      .result-lead {
+        display: none;
+        margin-bottom: 14px;
+        padding: 15px 16px;
+        border-radius: 16px;
+        color: #b94d25;
+        background: linear-gradient(90deg, rgba(255, 241, 217, 0.9), rgba(255, 248, 236, 0.76));
+        border: 1px solid rgba(230, 151, 92, 0.14);
+        font-size: 18px;
+        font-weight: 650;
+        line-height: 1.7;
+      }
+
+      .result-lead.show {
+        display: block;
+      }
+
+      .result-body {
+        white-space: pre-wrap;
+        color: #4a3b32;
+        font-size: 15px;
+        line-height: 2;
+      }
+
+      .positive-note {
+        display: none;
+        margin-top: 16px;
+        padding: 13px 15px;
+        border-radius: 14px;
+        color: #d55f2f;
+        background: rgba(255, 242, 220, 0.85);
+        border: 1px solid rgba(233, 129, 71, 0.15);
+        font-size: 13px;
+        line-height: 1.7;
+      }
+
+      .positive-note.show {
+        display: flex;
+        gap: 9px;
+        align-items: flex-start;
+      }
+
+      .result-actions {
+        display: none;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        margin-top: 18px;
+      }
+
+      .result-actions.show {
+        display: grid;
+      }
+
+      .action-btn {
+        border: 1px solid rgba(193, 155, 123, 0.26);
+        border-radius: 999px;
+        padding: 11px 14px;
+        background: rgba(255, 252, 247, 0.75);
+        color: #645044;
+        cursor: pointer;
+        transition: 0.2s ease;
+      }
+
+      .action-btn:hover {
+        border-color: rgba(221, 107, 52, 0.34);
+        color: #d65d2d;
+        transform: translateY(-1px);
+      }
+
+      .error {
+        color: #a93b32;
+      }
+
+      .feature-row {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 14px;
+        margin: 24px 8px 0;
+      }
+
+      .feature {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 8px;
+        color: #6f584a;
+      }
+
+      .feature-icon {
+        width: 34px;
+        height: 34px;
+        flex: 0 0 auto;
+        border-radius: 50%;
+        display: grid;
+        place-items: center;
+        background: rgba(255, 245, 230, 0.76);
+        color: #dc6e35;
+        border: 1px solid rgba(212, 134, 82, 0.16);
+      }
+
+      .feature strong {
+        display: block;
+        margin-bottom: 2px;
+        font-size: 13px;
+      }
+
+      .feature span {
+        display: block;
+        font-size: 11px;
+        color: #9a887b;
+      }
+
+      .footer {
+        width: min(930px, calc(100% - 48px));
+        margin: 0 auto;
+        padding: 0 0 30px;
+        text-align: center;
+        font-family: "STKaiti", "KaiTi", serif;
+        color: rgba(109, 80, 61, 0.66);
+        letter-spacing: 0.18em;
+        font-size: 12px;
+      }
+
+      @media (max-width: 900px) {
+        .side-poem {
+          display: none;
+        }
+
+        .feature-row {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      @media (max-width: 680px) {
+        body {
+          background-position: 50% top;
+          background-attachment: scroll;
+        }
+
+        .header,
+        .hero,
+        .main-content,
+        .footer {
+          width: min(100% - 24px, 930px);
+        }
+
+        .header {
+          padding-top: 16px;
+        }
+
+        .nav {
+          display: none;
+        }
+
+        .hero {
+          margin-top: 18px;
+        }
+
+        .hero h1 {
+          font-size: clamp(44px, 14vw, 64px);
+        }
+
+        .hero p {
+          font-size: 14px;
+        }
+
+        .dream-card,
+        .result-card {
+          padding: 16px;
+          border-radius: 22px;
+        }
+
+        textarea {
+          min-height: 210px;
+          padding: 16px 16px 38px;
+          font-size: 16px;
+        }
+
+        .dream-card-footer {
+          grid-template-columns: 1fr;
+        }
+
+        .submit-btn {
+          width: 100%;
+        }
+
+        .result-header {
+          align-items: flex-start;
+        }
+
+        .wish-note {
+          display: none;
+        }
+
+        .progress-step span:last-child {
+          font-size: 10px;
+        }
+
+        .result-actions {
+          grid-template-columns: 1fr;
+        }
+
+        .feature-row {
+          grid-template-columns: 1fr 1fr;
+          margin-left: 0;
+          margin-right: 0;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="page-shell">
+      <header class="header">
+        <div class="brand">
+          <div class="seal">周<br />梦</div>
+          <div class="brand-copy">
+            <span class="brand-en">ZHOU GONG DREAM</span>
+            <span class="brand-cn">周公解梦</span>
+          </div>
+        </div>
+
+        <nav class="nav" aria-label="主导航">
+          <a href="#dream-area">解梦</a>
+          <a href="#features">文化</a>
+          <a href="#about">关于</a>
+        </nav>
+      </header>
+
+      <div class="side-poem left">
+        <span>梦见美好</span>
+        <strong>生活可期</strong>
+      </div>
+
+      <div class="side-poem right">
+        <span>一梦一世界</span>
+        <span>愿每个梦</span>
+        <strong>都指向更好的你</strong>
+        <span class="poem-dash">—</span>
+      </div>
+
+      <div class="side-poem right-bottom">
+        <span>心有光</span>
+        <span>梦有方向</span>
+        <span class="poem-dash">—</span>
+      </div>
+
+      <section class="hero">
+        <h1>昨晚，<span class="accent">梦</span>见了什么？</h1>
+        <p>
+          把梦完整写下来。我们会从梦里的画面、情绪和变化，
+          帮你整理成简单、温暖、容易理解的解读。
+        </p>
+      </section>
+
+      <main class="main-content" id="dream-area">
+        <section class="dream-card glass-card">
+          <div class="textarea-wrap">
+            <textarea
+              id="dream"
+              maxlength="2000"
+              placeholder="尽量描述梦里的细节，比如场景、人物、情绪、发生了什么……\n例如：我梦见一条黑蛇一直追着我，后来我跑到河边，跳进了水里……"
+            ></textarea>
+            <span id="counter" class="counter">0/2000</span>
+          </div>
+
+          <div class="dream-card-footer">
+            <div class="helper">
+              <div class="helper-line">
+                <span class="helper-icon">⌂</span>
+                <span>不用写得很完整，记得多少就写多少。</span>
+              </div>
+              <div id="usageStatus" class="usage-status">每天最多解梦 5 次</div>
+            </div>
+
+            <button id="submit" class="submit-btn" type="button">
+              ✦ 开始解梦&nbsp; →
+            </button>
+          </div>
+        </section>
+
+        <section id="result" class="result-card glass-card" aria-live="polite">
+          <div class="result-header">
+            <div class="result-title-wrap">
+              <div class="lotus-mark">✿</div>
+              <div>
+                <h2 class="result-title">解梦结果</h2>
+                <p class="result-subtitle">把梦里的线索，整理成更好懂的一段话</p>
+              </div>
+            </div>
+            <div class="wish-note">愿你从梦中获得力量</div>
+          </div>
+
+          <div id="progressWrap" class="progress-wrap">
+            <div class="progress-steps">
+              <div class="progress-step" data-step="1">
+                <span class="step-dot">✓</span>
+                <span>理解梦境</span>
+              </div>
+              <div class="progress-step" data-step="2">
+                <span class="step-dot">•</span>
+                <span>找出重点</span>
+              </div>
+              <div class="progress-step" data-step="3">
+                <span class="step-dot">•</span>
+                <span>整理解读</span>
+              </div>
+              <div class="progress-step" data-step="4">
+                <span class="step-dot">•</span>
+                <span>生成结果</span>
+              </div>
+            </div>
+
+            <div class="progress-head">
+              <span id="progressText" class="progress-text">正在理解你的梦…</span>
+              <span id="progressPercent" class="progress-percent">0%</span>
+            </div>
+
+            <div class="progress-track">
+              <div id="progressBar" class="progress-fill"></div>
+            </div>
+          </div>
+
+          <div id="resultContent" class="result-content">
+            <div id="resultLead" class="result-lead"></div>
+            <div id="resultBody" class="result-body"></div>
+
+            <div id="positiveNote" class="positive-note">
+              <span>♥</span>
+              <span id="positiveNoteText">愿你醒来以后，也能带着一点轻松继续往前走。</span>
+            </div>
+
+            <div id="resultActions" class="result-actions">
+              <button id="restart" class="action-btn" type="button">↻ 再解一个</button>
+              <button id="copyResult" class="action-btn" type="button">▣ 复制结果</button>
+              <button id="saveResult" class="action-btn" type="button">♡ 收藏解读</button>
+            </div>
+          </div>
+        </section>
+
+        <section class="feature-row" id="features">
+          <div class="feature">
+            <div class="feature-icon">⌘</div>
+            <div>
+              <strong>传统文化底蕴</strong>
+              <span>保留经典解梦线索</span>
+            </div>
+          </div>
+
+          <div class="feature">
+            <div class="feature-icon">♡</div>
+            <div>
+              <strong>现代视角解读</strong>
+              <span>说简单、自然的人话</span>
+            </div>
+          </div>
+
+          <div class="feature">
+            <div class="feature-icon">☼</div>
+            <div>
+              <strong>温暖正向表达</strong>
+              <span>从梦里找到一点力量</span>
+            </div>
+          </div>
+
+          <div class="feature" id="about">
+            <div class="feature-icon">◇</div>
+            <div>
+              <strong>不保存梦境</strong>
+              <span>你的梦，只属于你</span>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        —— 周公解梦 · 解读当下 · 照见内心 ——
+      </footer>
+    </div>
+
+    <script>
+      import FingerprintJS from '@fingerprintjs/fingerprintjs';
+
+      interface DreamApiResponse {
+        answer?: string;
+        encouragement?: string;
+        error?: string;
+        code?: string;
+        remaining?: number;
+        aiModel?: string;
+      }
+
+      interface ProgressStage {
+        percent: number;
+        text: string;
+        step: number;
+        delay: number;
+      }
+
+      const textarea = document.querySelector<HTMLTextAreaElement>('#dream');
+      const counter = document.querySelector<HTMLElement>('#counter');
+      const button = document.querySelector<HTMLButtonElement>('#submit');
+      const result = document.querySelector<HTMLElement>('#result');
+      const progressWrap = document.querySelector<HTMLElement>('#progressWrap');
+      const progressText = document.querySelector<HTMLElement>('#progressText');
+      const progressPercent = document.querySelector<HTMLElement>('#progressPercent');
+      const progressBar = document.querySelector<HTMLElement>('#progressBar');
+      const progressSteps = Array.from(
+        document.querySelectorAll<HTMLElement>('.progress-step'),
+      );
+      const resultContent = document.querySelector<HTMLElement>('#resultContent');
+      const resultLead = document.querySelector<HTMLElement>('#resultLead');
+      const resultBody = document.querySelector<HTMLElement>('#resultBody');
+      const positiveNote = document.querySelector<HTMLElement>('#positiveNote');
+      const positiveNoteText = document.querySelector<HTMLElement>('#positiveNoteText');
+      const usageStatus = document.querySelector<HTMLElement>('#usageStatus');
+      const resultActions = document.querySelector<HTMLElement>('#resultActions');
+      const restartButton = document.querySelector<HTMLButtonElement>('#restart');
+      const copyButton = document.querySelector<HTMLButtonElement>('#copyResult');
+      const saveButton = document.querySelector<HTMLButtonElement>('#saveResult');
+      const exampleButtons = Array.from(
+        document.querySelectorAll<HTMLButtonElement>('.example-chip'),
+      );
+
+      let progressTimers: number[] = [];
+      let lastAnswer = '';
+      let lastEncouragement = '';
+      let fingerprintPromise: Promise<string> | null = null;
+
+      function getFallbackBrowserId(): string {
+        const storageKey = 'zhougong-browser-id';
+        const existing = localStorage.getItem(storageKey);
+
+        if (existing) return `fallback:${existing}`;
+
+        const generated =
+          typeof crypto.randomUUID === 'function'
+            ? crypto.randomUUID()
+            : `${Date.now()}-${Math.random().toString(36).slice(2)}-${Math.random()
+                .toString(36)
+                .slice(2)}`;
+
+        localStorage.setItem(storageKey, generated);
+        return `fallback:${generated}`;
+      }
+
+      async function getVisitorId(): Promise<string> {
+        if (!fingerprintPromise) {
+          fingerprintPromise = (async () => {
+            try {
+              const fp = await FingerprintJS.load();
+              const result = await fp.get();
+              return `fp:${result.visitorId}`;
+            } catch (error) {
+              console.warn('[fingerprint] 获取浏览器指纹失败，使用本地浏览器标识', error);
+              return getFallbackBrowserId();
+            }
+          })();
+        }
+
+        return fingerprintPromise;
+      }
+
+      function updateUsageStatus(remaining?: number) {
+        if (!usageStatus) return;
+
+        if (typeof remaining !== 'number') {
+          usageStatus.textContent = '每天最多解梦 5 次';
+          return;
+        }
+
+        if (remaining <= 0) {
+          usageStatus.textContent = '今天的 5 次已经用完，明天再来。';
+          return;
+        }
+
+        usageStatus.textContent = `今日还可解梦 ${remaining} 次`;
+      }
+
+      function updateCounter() {
+        if (!textarea || !counter) return;
+        counter.textContent = `${textarea.value.length}/2000`;
+      }
+
+      function clearProgressTimers() {
+        for (const timer of progressTimers) {
+          window.clearTimeout(timer);
+        }
+        progressTimers = [];
+      }
+
+      function setProgress(percent: number, text: string, activeStep: number) {
+        const safePercent = Math.max(0, Math.min(100, percent));
+
+        if (progressBar) progressBar.style.width = `${safePercent}%`;
+        if (progressPercent) progressPercent.textContent = `${safePercent}%`;
+        if (progressText) progressText.textContent = text;
+
+        progressSteps.forEach((step, index) => {
+          const stepNumber = index + 1;
+          step.classList.remove('active', 'done');
+
+          if (stepNumber < activeStep) step.classList.add('done');
+          if (stepNumber === activeStep) step.classList.add('active');
+        });
+      }
+
+      function startProgress() {
+        clearProgressTimers();
+
+        result?.classList.add('show');
+        progressWrap?.classList.add('show');
+        resultContent?.classList.remove('show');
+        positiveNote?.classList.remove('show');
+        resultActions?.classList.remove('show');
+
+        setProgress(6, '正在理解你的梦…', 1);
+
+        const stages: ProgressStage[] = [
+          { percent: 20, text: '正在梳理梦里的关键画面…', step: 1, delay: 500 },
+          { percent: 38, text: '正在找出梦里最值得注意的部分…', step: 2, delay: 1300 },
+          { percent: 55, text: '正在理解这些画面之间的关系…', step: 2, delay: 2300 },
+          { percent: 71, text: '正在整理解读方向…', step: 3, delay: 3500 },
+          { percent: 84, text: '正在把解读说得更简单一点…', step: 3, delay: 4800 },
+          { percent: 92, text: '正在生成最后的解读…', step: 4, delay: 6400 },
+          { percent: 96, text: '马上就好…', step: 4, delay: 8500 },
+        ];
+
+        for (const stage of stages) {
+          const timer = window.setTimeout(() => {
+            setProgress(stage.percent, stage.text, stage.step);
+          }, stage.delay);
+          progressTimers.push(timer);
+        }
+      }
+
+      async function finishProgress() {
+        clearProgressTimers();
+        setProgress(100, '解读完成', 4);
+        await new Promise<void>((resolve) => window.setTimeout(resolve, 320));
+        progressWrap?.classList.remove('show');
+      }
+
+      function stopProgress() {
+        clearProgressTimers();
+        progressWrap?.classList.remove('show');
+      }
+
+      function renderAnswer(answer: string, encouragement?: string) {
+        lastAnswer = answer.trim();
+        lastEncouragement =
+          encouragement?.trim() || '愿你醒来以后，也能带着一点轻松继续往前走。';
+
+        const paragraphs = lastAnswer
+          .split(/\n\s*\n/)
+          .map((item) => item.trim())
+          .filter(Boolean);
+
+        if (resultLead) {
+          const lead = paragraphs[0] ?? '';
+          resultLead.textContent = lead;
+          resultLead.classList.toggle('show', Boolean(lead));
+        }
+
+        if (resultBody) {
+          const rest = paragraphs.length > 1 ? paragraphs.slice(1) : [];
+          resultBody.textContent = rest.join('\n\n');
+          resultBody.className = 'result-body';
+        }
+
+        if (positiveNoteText) {
+          positiveNoteText.textContent = lastEncouragement;
+        }
+
+        resultContent?.classList.add('show');
+        positiveNote?.classList.add('show');
+        resultActions?.classList.add('show');
+      }
+
+      function resetResult() {
+        stopProgress();
+        result?.classList.remove('show');
+        resultContent?.classList.remove('show');
+        resultLead?.classList.remove('show');
+        positiveNote?.classList.remove('show');
+        resultActions?.classList.remove('show');
+        if (resultLead) resultLead.textContent = '';
+        if (resultBody) resultBody.textContent = '';
+        if (positiveNoteText) {
+          positiveNoteText.textContent = '愿你醒来以后，也能带着一点轻松继续往前走。';
+        }
+        lastAnswer = '';
+        lastEncouragement = '';
+      }
+
+      textarea?.addEventListener('input', updateCounter);
+
+      exampleButtons.forEach((exampleButton) => {
+        exampleButton.addEventListener('click', () => {
+          if (!textarea) return;
+          textarea.value = exampleButton.dataset.example ?? '';
+          updateCounter();
+          textarea.focus();
+        });
+      });
+
+      button?.addEventListener('click', async () => {
+        const dream = textarea?.value.trim();
+
+        if (!dream || !button || !resultBody) return;
+
+        button.disabled = true;
+        button.textContent = '解读中…';
+        startProgress();
+
+        try {
+          const visitorId = await getVisitorId();
+
+          const response = await fetch('/api/dream', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ dream, visitorId }),
+          });
+
+          const data = (await response.json()) as DreamApiResponse;
+          updateUsageStatus(data.remaining);
+
+          if (!response.ok) {
+            throw new Error(data.error || '请求失败');
+          }
+
+          await finishProgress();
+          renderAnswer(
+            data.answer ?? '这个梦很特别，再多写一点细节，也许会看得更清楚。',
+            data.encouragement,
+          );
+        } catch (error) {
+          stopProgress();
+          result?.classList.add('show');
+          resultContent?.classList.add('show');
+          resultLead?.classList.remove('show');
+          positiveNote?.classList.remove('show');
+          resultActions?.classList.remove('show');
+          resultBody.className = 'result-body error';
+          resultBody.textContent =
+            error instanceof Error ? error.message : '解梦服务暂时出错，请稍后再试。';
+        } finally {
+          button.disabled = false;
+          button.textContent = '✦ 开始解梦  →';
+        }
+      });
+
+      restartButton?.addEventListener('click', () => {
+        resetResult();
+        if (textarea) {
+          textarea.value = '';
+          updateCounter();
+          textarea.focus();
+        }
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+
+      copyButton?.addEventListener('click', async () => {
+        if (!lastAnswer) return;
+
+        try {
+          await navigator.clipboard.writeText(lastAnswer);
+          if (copyButton) {
+            const original = copyButton.textContent;
+            copyButton.textContent = '✓ 已复制';
+            window.setTimeout(() => {
+              copyButton.textContent = original;
+            }, 1200);
+          }
+        } catch {
+          // 浏览器不支持 Clipboard API 时保持原按钮文案
+        }
+      });
+
+      saveButton?.addEventListener('click', () => {
+        if (!lastAnswer || !textarea) return;
+
+        const saved = {
+          dream: textarea.value.trim(),
+          answer: lastAnswer,
+          encouragement: lastEncouragement,
+          savedAt: new Date().toISOString(),
+        };
+
+        localStorage.setItem('zhougong-last-saved-dream', JSON.stringify(saved));
+
+        const original = saveButton.textContent;
+        saveButton.textContent = '♥ 已收藏';
+        window.setTimeout(() => {
+          saveButton.textContent = original;
+        }, 1400);
+      });
+
+      updateCounter();
+      void getVisitorId();
+    </script>
+  </body>
+</html>

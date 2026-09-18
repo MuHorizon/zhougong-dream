@@ -1,0 +1,232 @@
+[
+  {
+    "id": "zg-0691",
+    "category": "杀害斗伤打骂",
+    "sourceText": "持刀相杀见血吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0692",
+    "category": "杀害斗伤打骂",
+    "sourceText": "刀伤出血主酒食",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0693",
+    "category": "杀害斗伤打骂",
+    "sourceText": "砍刺见血主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0694",
+    "category": "杀害斗伤打骂",
+    "sourceText": "炙身见血流大吉",
+    "suggestions": [
+      {
+        "title": "梦见见血",
+        "keywords": [
+          "见血",
+          "血出",
+          "流血"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0695",
+    "category": "杀害斗伤打骂",
+    "sourceText": "刀斧自伤主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0696",
+    "category": "杀害斗伤打骂",
+    "sourceText": "持刀砍人自失力",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0697",
+    "category": "杀害斗伤打骂",
+    "sourceText": "被妻妾打者主凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0698",
+    "category": "杀害斗伤打骂",
+    "sourceText": "被人打者主得力",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0699",
+    "category": "杀害斗伤打骂",
+    "sourceText": "女人相打主病至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0700",
+    "category": "杀害斗伤打骂",
+    "sourceText": "兄弟相打大吉利",
+    "suggestions": [
+      {
+        "title": "梦见兄弟相打",
+        "keywords": [
+          "兄弟相打",
+          "兄弟争斗",
+          "手足相争"
+        ],
+        "score": 0.9343999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0701",
+    "category": "杀害斗伤打骂",
+    "sourceText": "家中人斗主分散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0702",
+    "category": "杀害斗伤打骂",
+    "sourceText": "看见杀人主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0703",
+    "category": "杀害斗伤打骂",
+    "sourceText": "被人签刺大吉昌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0704",
+    "category": "杀害斗伤打骂",
+    "sourceText": "手指折者主子病",
+    "suggestions": [
+      {
+        "title": "梦见手指折",
+        "keywords": [
+          "手指折",
+          "手折",
+          "指断"
+        ],
+        "score": 0.8251999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0705",
+    "category": "杀害斗伤打骂",
+    "sourceText": "向人叩头百事吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0706",
+    "category": "杀害斗伤打骂",
+    "sourceText": "与人相骂者主吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0707",
+    "category": "杀害斗伤打骂",
+    "sourceText": "被骂佯颠大贵至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0708",
+    "category": "杀害斗伤打骂",
+    "sourceText": "被人凌辱主得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0709",
+    "category": "杀害斗伤打骂",
+    "sourceText": "杀猪者大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0710",
+    "category": "杀害斗伤打骂",
+    "sourceText": "杀驴骡马有酒食",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0711",
+    "category": "杀害斗伤打骂",
+    "sourceText": "杀龟者主有丧事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0712",
+    "category": "杀害斗伤打骂",
+    "sourceText": "杀鸟雀妻妾灾难",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0713",
+    "category": "杀害斗伤打骂",
+    "sourceText": "杀鸡鹅鸭主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0714",
+    "category": "扑禁刑罚狱具",
+    "sourceText": "牢狱崩坏有赦吉",
+    "suggestions": [
+      {
+        "title": "梦见出狱",
+        "keywords": [
+          "出狱",
+          "牢狱崩",
+          "狱中赦"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0715",
+    "category": "扑禁刑罚狱具",
+    "sourceText": "坐狱中必有恩赦",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0716",
+    "category": "扑禁刑罚狱具",
+    "sourceText": "入狱受灾主荣贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0717",
+    "category": "扑禁刑罚狱具",
+    "sourceText": "狱中死者官事散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0718",
+    "category": "扑禁刑罚狱具",
+    "sourceText": "使人入狱得财吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0719",
+    "category": "扑禁刑罚狱具",
+    "sourceText": "入牢狱主有大贵",
+    "suggestions": [
+      {
+        "title": "梦见入狱",
+        "keywords": [
+          "入狱",
+          "进牢",
+          "牢狱"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0720",
+    "category": "扑禁刑罚狱具",
+    "sourceText": "盗曲自入狱大凶",
+    "suggestions": []
+  }
+]

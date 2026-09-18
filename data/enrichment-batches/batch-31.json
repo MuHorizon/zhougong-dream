@@ -1,0 +1,233 @@
+[
+  {
+    "id": "zg-0901",
+    "category": "牛马猪羊六畜",
+    "sourceText": "马入室主奸情事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0902",
+    "category": "牛马猪羊六畜",
+    "sourceText": "乌蛇践物失禄位",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0903",
+    "category": "牛马猪羊六畜",
+    "sourceText": "披洗夜马皆喜事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0904",
+    "category": "牛马猪羊六畜",
+    "sourceText": "群马奔统百凶解",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0905",
+    "category": "牛马猪羊六畜",
+    "sourceText": "罪人走马厄事会",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0906",
+    "category": "牛马猪羊六畜",
+    "sourceText": "乘白马者主疾病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0907",
+    "category": "牛马猪羊六畜",
+    "sourceText": "被马咬有禄位至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0908",
+    "category": "牛马猪羊六畜",
+    "sourceText": "骑驴骡主得财吉",
+    "suggestions": [
+      {
+        "title": "梦见骑驴骡",
+        "keywords": [
+          "驴",
+          "骡",
+          "骑驴",
+          "骑骡"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0909",
+    "category": "牛马猪羊六畜",
+    "sourceText": "杀猪吉猪自死凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0910",
+    "category": "牛马猪羊六畜",
+    "sourceText": "猪豚变人官事至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0911",
+    "category": "牛马猪羊六畜",
+    "sourceText": "猪羊搔痒有口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0912",
+    "category": "牛马猪羊六畜",
+    "sourceText": "羊做豚行行人至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0913",
+    "category": "牛马猪羊六畜",
+    "sourceText": "骑羊上街主得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0914",
+    "category": "牛马猪羊六畜",
+    "sourceText": "子母羊益命大吉",
+    "suggestions": [
+      {
+        "title": "梦见羊",
+        "keywords": [
+          "羊",
+          "子母羊",
+          "牵羊"
+        ],
+        "score": 0.8852
+      }
+    ]
+  },
+  {
+    "id": "zg-0915",
+    "category": "牛马猪羊六畜",
+    "sourceText": "犬吠人鬼来求食",
+    "suggestions": [
+      {
+        "title": "梦见狗吠",
+        "keywords": [
+          "狗吠",
+          "犬吠",
+          "群犬吠"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0916",
+    "category": "牛马猪羊六畜",
+    "sourceText": "犬咬主人失财凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0917",
+    "category": "牛马猪羊六畜",
+    "sourceText": "屋中生马主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0918",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "龟入井宅富贵至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0919",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "龟蛇相同主生财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0920",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "见龟者主女人贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0921",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "捉龟者主丧事至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0922",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "见鳖者主有得财",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0923",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "鱼飞水上百事散",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0924",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "井内有鱼迁官至",
+    "suggestions": [
+      {
+        "title": "梦见井中鱼",
+        "keywords": [
+          "井中鱼",
+          "井内有鱼"
+        ],
+        "score": 0.7844
+      }
+    ]
+  },
+  {
+    "id": "zg-0925",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "张网捕鱼大吉利",
+    "suggestions": [
+      {
+        "title": "梦见捞鱼",
+        "keywords": [
+          "捞鱼",
+          "捕鱼",
+          "张网",
+          "网鱼"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0926",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "人捕鱼作食皆吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0927",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "抢鱼拾鱼主小疾",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0928",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "水中钓鱼大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0929",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "林中鱼猪事无成",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0930",
+    "category": "龟鳖鱼虾昆虫",
+    "sourceText": "群鱼游水主有财",
+    "suggestions": []
+  }
+]

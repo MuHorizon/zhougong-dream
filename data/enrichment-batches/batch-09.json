@@ -1,0 +1,224 @@
+[
+  {
+    "id": "zg-0241",
+    "category": "帝王文武呼召",
+    "sourceText": "王侯并坐大吉利",
+    "suggestions": [
+      {
+        "title": "梦见王侯",
+        "keywords": [
+          "王侯",
+          "见王",
+          "见侯",
+          "王公"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0242",
+    "category": "帝王文武呼召",
+    "sourceText": "来见贵人不得凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0243",
+    "category": "帝王文武呼召",
+    "sourceText": "与圣贤说诣大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0244",
+    "category": "帝王文武呼召",
+    "sourceText": "使命入门大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0245",
+    "category": "帝王文武呼召",
+    "sourceText": "白衣召作使死亡",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0246",
+    "category": "帝王文武呼召",
+    "sourceText": "拜尊长者有吉庆",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0247",
+    "category": "帝王文武呼召",
+    "sourceText": "先祖考言求食吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0248",
+    "category": "帝王文武呼召",
+    "sourceText": "人云大好者即凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0249",
+    "category": "帝王文武呼召",
+    "sourceText": "人云死者得长命",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0250",
+    "category": "帝王文武呼召",
+    "sourceText": "人在外呼之主凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0251",
+    "category": "帝王文武呼召",
+    "sourceText": "我欲共汝去大凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0252",
+    "category": "帝王文武呼召",
+    "sourceText": "人云不用汝大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0253",
+    "category": "帝王文武呼召",
+    "sourceText": "与恶人言有口舌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0254",
+    "category": "帝王文武呼召",
+    "sourceText": "被杀害吉伏藏凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0255",
+    "category": "帝王文武呼召",
+    "sourceText": "身生羽翼飞大吉身逃走得脱病去",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0256",
+    "category": "帝王文武呼召",
+    "sourceText": "与人交易主有疾",
+    "suggestions": [
+      {
+        "title": "梦见与人交易",
+        "keywords": [
+          "与人交易",
+          "做买卖",
+          "做生意",
+          "谈生意"
+        ],
+        "score": 0.9343999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0257",
+    "category": "帝王文武呼召",
+    "sourceText": "贫穷共居主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0258",
+    "category": "帝王文武呼召",
+    "sourceText": "合伴同行凶事至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0259",
+    "category": "帝王文武呼召",
+    "sourceText": "一切贵人皆吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0260",
+    "category": "宫室屋宇仓库",
+    "sourceText": "入帝王官行大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0261",
+    "category": "宫室屋宇仓库",
+    "sourceText": "拜朝廷者主富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0262",
+    "category": "宫室屋宇仓库",
+    "sourceText": "入王侯府主大吉",
+    "suggestions": [
+      {
+        "title": "梦见入府",
+        "keywords": [
+          "入府",
+          "入官府",
+          "王侯府"
+        ],
+        "score": 0.8251999999999999
+      }
+    ]
+  },
+  {
+    "id": "zg-0263",
+    "category": "宫室屋宇仓库",
+    "sourceText": "行道宫见仙主吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0264",
+    "category": "宫室屋宇仓库",
+    "sourceText": "坐官府中主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0265",
+    "category": "宫室屋宇仓库",
+    "sourceText": "神庙广大事事吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0266",
+    "category": "宫室屋宇仓库",
+    "sourceText": "上楼阁坛俱大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0267",
+    "category": "宫室屋宇仓库",
+    "sourceText": "上高堂大富贵至",
+    "suggestions": [
+      {
+        "title": "梦见高堂",
+        "keywords": [
+          "高堂",
+          "堂上",
+          "厅堂"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0268",
+    "category": "宫室屋宇仓库",
+    "sourceText": "高楼饮酒富贵至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0269",
+    "category": "宫室屋宇仓库",
+    "sourceText": "家起高楼安稳事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0270",
+    "category": "宫室屋宇仓库",
+    "sourceText": "上城为人所拽吉",
+    "suggestions": []
+  }
+]

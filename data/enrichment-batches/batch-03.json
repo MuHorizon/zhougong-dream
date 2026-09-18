@@ -1,0 +1,232 @@
+[
+  {
+    "id": "zg-0061",
+    "category": "天地日月星辰",
+    "sourceText": "狂风大雨人死亡",
+    "suggestions": [
+      {
+        "title": "梦见暴雨",
+        "keywords": [
+          "暴雨",
+          "大雨",
+          "急雨"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0062",
+    "category": "天地日月星辰",
+    "sourceText": "风吹人衣主疾病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0063",
+    "category": "天地日月星辰",
+    "sourceText": "忽大风国有号令",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0064",
+    "category": "天地日月星辰",
+    "sourceText": "风如吼主远信至",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0065",
+    "category": "地理山石树木",
+    "sourceText": "地动主迁官位吉",
+    "suggestions": [
+      {
+        "title": "梦见地动",
+        "keywords": [
+          "地动",
+          "地震",
+          "地摇"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0066",
+    "category": "地理山石树木",
+    "sourceText": "地裂主疾病大凶",
+    "suggestions": [
+      {
+        "title": "梦见地陷",
+        "keywords": [
+          "地陷",
+          "地塌",
+          "地裂"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0067",
+    "category": "地理山石树木",
+    "sourceText": "修平田地大吉昌",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0068",
+    "category": "地理山石树木",
+    "sourceText": "地高下不平主病",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0069",
+    "category": "地理山石树木",
+    "sourceText": "卧于石上主大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0070",
+    "category": "地理山石树木",
+    "sourceText": "地中黑气上主凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0071",
+    "category": "地理山石树木",
+    "sourceText": "运石入家主富贵",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0072",
+    "category": "地理山石树木",
+    "sourceText": "石上得利禄大吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0073",
+    "category": "地理山石树木",
+    "sourceText": "盘石安稳无忧疑",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0074",
+    "category": "地理山石树木",
+    "sourceText": "登岩抱石官职迁",
+    "suggestions": [
+      {
+        "title": "梦见登岩",
+        "keywords": [
+          "登岩",
+          "攀岩",
+          "抱石"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0075",
+    "category": "地理山石树木",
+    "sourceText": "手弄小石生贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0076",
+    "category": "地理山石树木",
+    "sourceText": "身人土中百事吉",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0077",
+    "category": "地理山石树木",
+    "sourceText": "自身取土被耻辱",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0078",
+    "category": "地理山石树木",
+    "sourceText": "升山落地主失位",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0079",
+    "category": "地理山石树木",
+    "sourceText": "居住高山有喜事",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0080",
+    "category": "地理山石树木",
+    "sourceText": "山行得财有福禄",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0081",
+    "category": "地理山石树木",
+    "sourceText": "抱物上山孕贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0082",
+    "category": "地理山石树木",
+    "sourceText": "山中农稼衣食丰",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0083",
+    "category": "地理山石树木",
+    "sourceText": "枯木再发子孙兴",
+    "suggestions": [
+      {
+        "title": "梦见枯木",
+        "keywords": [
+          "枯木",
+          "死树",
+          "枯树"
+        ],
+        "score": 0.7704
+      }
+    ]
+  },
+  {
+    "id": "zg-0084",
+    "category": "地理山石树木",
+    "sourceText": "堂上地陷主安忧",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0085",
+    "category": "地理山石树木",
+    "sourceText": "园林茂盛大吉利",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0086",
+    "category": "地理山石树木",
+    "sourceText": "树木枯死宅不安",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0087",
+    "category": "地理山石树木",
+    "sourceText": "林中坐卧病欲痊",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0088",
+    "category": "地理山石树木",
+    "sourceText": "树木凋零主人凶",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0089",
+    "category": "地理山石树木",
+    "sourceText": "林中树生添贵子",
+    "suggestions": []
+  },
+  {
+    "id": "zg-0090",
+    "category": "地理山石树木",
+    "sourceText": "种树木者大吉昌",
+    "suggestions": []
+  }
+]
